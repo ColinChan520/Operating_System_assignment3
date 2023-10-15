@@ -1,0 +1,3433 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8"><style>
+#pg-header div, #pg-footer div {
+    all: initial;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+}
+#pg-footer div.agate {
+    font-size: 90%;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+#pg-footer li {
+    all: initial;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-indent: -0.6em;
+}
+#pg-footer div.secthead {
+    font-size: 110%;
+    font-weight: bold;
+}
+#pg-footer #project-gutenberg-license {
+    font-size: 110%;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+#pg-header-heading {
+    all: inherit;
+    text-align: center;
+    font-size: 120%;
+    font-weight:bold;
+}
+#pg-footer-heading {
+    all: inherit;
+    text-align: center;
+    font-size: 120%;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pg-header #pg-machine-header p {
+    text-indent: -4em;
+    margin-left: 4em;
+    margin-top: 1em;
+    margin-bottom: 0;
+    font-size: medium
+}
+#pg-header #pg-header-authlist {
+    all: initial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pg-header #pg-machine-header strong {
+    font-weight: normal;
+}
+#pg-header #pg-start-separator, #pg-footer #pg-end-separator {
+    margin-bottom: 3em;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 2em;
+    text-align: center
+}
+
+    .xhtml_center {text-align: center; display: block;}
+    .xhtml_center table {
+        display: table;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        }</style><title>
+      The Story of Rope | Project Gutenberg
+    </title>
+    <link href="images/cover.jpg" rel="icon" type="image/x-cover" id="id-7087893052534290050">
+    <style>body {
+    margin-left: 2.5em;
+    margin-right: 2.5em
+    }
+.x-ebookmaker body {
+    margin: 0
+    }
+.x-ebookmaker-drop {
+    color: inherit
+    }
+h1, h2 {
+    text-align: center;
+    clear: both;
+    margin-top: 2.5em;
+    margin-bottom: 1em;
+    word-spacing: 0.2em
+    }
+h1 {
+    margin-top: 1em;
+    margin-bottom: 2em
+    }
+h2.chap {
+    margin-bottom: 0
+    }
+h2 + p {
+    margin-top: 1.5em
+    }
+h2 .subhead {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+.x-ebookmaker h1, .x-ebookmaker .chapter, .x-ebookmaker .section {
+    page-break-before: always
+    }
+.x-ebookmaker h1.nobreak, .x-ebookmaker h2.nobreak, .x-ebookmaker .nobreak {
+    page-break-before: avoid;
+    padding-top: 0
+    }
+.transnote h2 {
+    margin-top: 0.5em;
+    margin-bottom: 1em
+    }
+.subhead {
+    text-indent: 0;
+    text-align: center;
+    font-size: smaller
+    }
+p {
+    text-indent: 1.75em;
+    margin-top: 0.51em;
+    margin-bottom: 0.24em;
+    text-align: justify
+    }
+.x-ebookmaker p {
+    margin-top: 0.5em;
+    margin-bottom: 0.25em
+    }
+.caption p, .center p, p.center {
+    text-align: center;
+    text-indent: 0
+    }
+.p2 {
+    margin-top: 2em
+    }
+.p4 {
+    margin-top: 4em
+    }
+.b1 {
+    margin-bottom: 1em
+    }
+.b2 {
+    margin-bottom: 2em
+    }
+.in1 {
+    padding-left: 1em
+    }
+.in2 {
+    padding-left: 2em
+    }
+.l1 {
+    padding-right: 1em
+    }
+.l2 {
+    padding-right: 2em
+    }
+.l4 {
+    padding-right: 4em
+    }
+.xxsmall {
+    font-size: 50%
+    }
+.xsmall {
+    font-size: 60%
+    }
+.small {
+    font-size: 70%
+    }
+.smaller {
+    font-size: 85%
+    }
+.larger {
+    font-size: 125%
+    }
+p.drop-cap-text {
+    text-indent: 0
+    }
+p.drop-cap-text:first-letter {
+    float: left;
+    margin: 0.05em 0.43em 0 0;
+    font-size: 275%;
+    line-height: 0.7em;
+    text-indent: 0;
+    clear: both
+    }
+p.drop-cap-text .smcap1 {
+    margin-left: -1.2em
+    }
+.smcap1 {
+    text-transform: uppercase
+    }
+.x-ebookmaker p.drop-cap-text {
+    text-indent: 0;
+    margin-bottom: 0.24em
+    }
+.x-ebookmaker p.drop-cap-text:first-letter {
+    float: none;
+    font-size: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    text-indent: 0
+    }
+.x-ebookmaker p.drop-cap-text .smcap1 {
+    margin-left: 0
+    }
+.x-ebookmaker .smcap1 {
+    font-variant: normal
+    }
+.clear {
+    clear: both
+    }
+.center {
+    text-align: center
+    }
+.right {
+    text-align: right;
+    margin-right: 2em
+    }
+.smcap {
+    font-variant: small-caps
+    }
+.firstword {
+    text-transform: uppercase
+    }
+hr {
+    width: 33%;
+    margin: 4em auto 4em auto;
+    clear: both
+    }
+.x-ebookmaker hr {
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    visibility: hidden;
+    color: white;
+    width: 0.01em;
+    display: none
+    }
+table {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+    min-width: 50%;
+    border-collapse: collapse
+    }
+.x-ebookmaker table {
+    width: auto;
+    max-width: 90%;
+    margin: 1em auto 1em auto
+    }
+.tdl {
+    text-align: justify;
+    vertical-align: top;
+    padding-right: 1em;
+    padding-left: 1.5em;
+    text-indent: -1.5em
+    }
+.x-ebookmaker .tdl {
+    padding-left: 1em;
+    text-indent: -1em;
+    padding-right: 0
+    }
+.tdc {
+    text-align: center
+    }
+.tdc.chap, .tdc.chapsub {
+    font-size: 110%;
+    padding-top: 1.5em;
+    padding-bottom: 0.5em
+    }
+.tdc.chapsub, .tdl.chapsub {
+    padding: 0 0 0.5em 0
+    }
+.tdr {
+    text-align: right;
+    vertical-align: bottom;
+    padding-left: 0.3em;
+    white-space: nowrap
+    }
+.tdr.top {
+    vertical-align: top;
+    padding-left: 0;
+    padding-right: 0.75em
+    }
+.pagenum {
+    position: absolute;
+    right: 0.25em;
+    text-indent: 0;
+    text-align: right;
+    font-size: 70%;
+    font-weight: normal;
+    font-variant: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    color: #acacac;
+    border: 0.0625em solid #acacac;
+    background: #fff;
+    padding: 0.0625em 0.125em
+    }
+.figcenter {
+    margin: 2em auto 2em auto;
+    text-align: center;
+    page-break-inside: avoid
+    }
+.x-ebookmaker .figcenter {
+    margin: 0 auto 0 auto
+    }
+.figcenter.headpiece {
+    max-width: 35em
+    }
+.figleft {
+    float: left;
+    clear: left;
+    margin-left: 0;
+    margin-bottom: 1em;
+    margin-top: 0;
+    margin-right: 1em;
+    padding: 0;
+    text-align: center;
+    min-width: 5%;
+    max-width: 40%;
+    page-break-inside: avoid
+    }
+.figright {
+    float: right;
+    clear: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 0;
+    text-align: center;
+    min-width: 5%;
+    max-width: 40%;
+    page-break-inside: avoid
+    }
+.x-ebookmaker .figleft, .x-ebookmaker .figright {
+    float: none;
+    clear: none;
+    margin: 1em auto 1em auto;
+    min-width: 0;
+    max-width: 100%
+    }
+img {
+    padding: 1em 0 0.5em 0;
+    max-width: 100%;
+    height: auto
+    }
+p.idc img {
+    float: left;
+    clear: left;
+    max-width: 4em;
+    padding: 0.2em 0.6em 0.3em 0
+    }
+p.idc:first-letter {
+    color: transparent;
+    text-indent: 0;
+    margin-left: -3em
+    }
+p.idc.i:first-letter {
+    color: transparent;
+    text-indent: 0;
+    margin-left: -2.6em
+    }
+p.idc.t:first-letter {
+    color: transparent;
+    text-indent: 0;
+    margin-left: -2.8em
+    }
+.x-ebookmaker p.idc {
+    text-indent: 0;
+    margin-left: 0
+    }
+.x-ebookmaker p.idc img {
+    float: none;
+    clear: none;
+    display: none;
+    visibility: hidden;
+    max-width: 0.001em;
+    padding: 0 0 0 0
+    }
+.x-ebookmaker p.idc:first-letter, .x-ebookmaker p.idc.i:first-letter, .x-ebookmaker p.idc.t:first-letter {
+    color: inherit;
+    text-indent: 0;
+    margin-left: 0
+    }
+a.ref {
+    text-decoration: none
+    }
+.caption {
+    text-align: center;
+    margin-top: 0;
+    font-size: 75%
+    }
+.caption .floatl {
+    float: left
+    }
+.caption .floatr {
+    float: right
+    }
+.caption .floatc {
+    clear: both
+    }
+.caption p.floatc {
+    margin-top: 2.5em
+    }
+.caption .blockquot.justify p {
+    text-align: justify
+    }
+.caption p.left {
+    text-align: left;
+    text-indent: 0;
+    padding-left: 4em
+    }
+.footnote {
+    border: thin dashed black;
+    margin: 1.5em 10%;
+    padding: 0.5em 1em 0.5em 1.5em
+    }
+.footnote {
+    font-size: 0.95em
+    }
+.footnote p {
+    text-indent: 1em
+    }
+.fnanchor, .footnote .label {
+    vertical-align: 60%;
+    line-height: 0.7;
+    font-size: smaller;
+    text-decoration: none
+    }
+.fnanchor {
+    font-weight: bold;
+    font-size: 0.8em
+    }
+.footnote .label {
+    font-size: 0.8em
+    }
+h2 .fnanchor {
+    font-size: 0.5em;
+    vertical-align: text-top
+    }
+.blockquot {
+    margin: 1.5em 5% 1.5em 5%;
+    font-size: 95%
+    }
+.x-ebookmaker .blockquot {
+    margin: 1.5em 3% 1.5em 3%
+    }
+.poetry-container {
+    margin: 1.5em auto;
+    text-align: center;
+    font-size: 98%;
+    display: flex;
+    justify-content: center
+    }
+.poetry {
+    display: block;
+    text-align: left;
+    margin-left: 0
+    }
+.x-ebookmaker .poetry {
+    margin-left: 5%;
+    margin-right: 5%
+    }
+.poetry .stanza {
+    padding: 0.5em 0;
+    page-break-inside: avoid
+    }
+.poetry .verse {
+    text-indent: -3em;
+    padding-left: 3em
+    }
+.poetry .attrib {
+    margin-right: -2em;
+    text-align: right;
+    margin-top: -0.5em
+    }
+.poetry .indent0 {
+    text-indent: -3em
+    }
+.poetry .indent2 {
+    text-indent: -2em
+    }
+.transnote {
+    border: 0.3em double gray;
+    font-family: sans-serif, serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 8em;
+    margin-bottom: 8em;
+    padding: 1em
+    }
+.x-ebookmaker .transnote {
+    page-break-before: always;
+    page-break-after: always;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    padding: 0.5em
+    }
+.wspace {
+    word-spacing: 0.3em
+    }
+.pagenum br {
+    display: none;
+    visibility: hidden
+    }
+.bbox, .bbox2, .bbox3 {
+    border: thin solid black;
+    padding: 0.2em;
+    margin: 0 auto 0 auto;
+    max-width: 19em;
+    page-break-before: always
+    }
+.bbox2 {
+    border: 0.5em solid #668a4a
+    }</style>
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="dc.title" content="The story of rope">
+<meta name="dc.language" content="en">
+<meta name="dcterms.source" content="https://www.gutenberg.org/files/71807/71807-h/71807-h.htm">
+<meta name="dcterms.modified" content="2023-10-05T04:00:13.010351+00:00">
+<meta name="dc.rights" content="Public domain in the USA.">
+<link rel="dcterms.isFormatOf" href="http://www.gutenberg.org/ebooks/71807">
+<meta name="dc.creator" content="Anonymous">
+<meta name="dcterms.created" content="2023-10-05">
+<meta name="generator" content="Ebookmaker 0.12.36 by Project Gutenberg">
+<meta property="og:title" content="The story of rope">
+<meta property="og:type" content="Text">
+<meta property="og:url" content="https://www.gutenberg.org/ebooks/71807/pg71807-images.html.utf8">
+<meta property="og:image" content="https://www.gutenberg.org/ebooks/71807/pg71807.cover.medium.jpg">
+</head>
+
+<body><section class="pg-boilerplate pgheader" id="pg-header" lang="en"><h2 id="pg-header-heading" title="">The Project Gutenberg eBook of <span lang="en">The story of rope</span></h2>
+    
+<div>This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at <a class="reference external" href="https://www.gutenberg.org">www.gutenberg.org</a>. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.</div>
+
+<div class="container" id="pg-machine-header"><p><strong>Title</strong>: The story of rope</p>
+<p style="margin-top:0"><span style="padding-left: 7.5ex">        </span>The history and the modern development of rope-making</p>
+
+<div id="pg-header-authlist">
+<p><strong>Author</strong>: Anonymous</p>
+</div>
+<p><strong>Release date</strong>: October 5, 2023 [eBook #71807]</p>
+
+<p><strong>Language</strong>: English</p>
+
+<p><strong>Original publication</strong>: North Plymouth, Mass: Plymouth Cordage Company, 1916</p>
+
+<p><strong>Credits</strong>: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net</p>
+
+</div><div id="pg-start-separator">
+<span>*** START OF THE PROJECT GUTENBERG EBOOK THE STORY OF ROPE ***</span>
+</div></section><div style="text-align:center"></div>
+
+<div class="transnote section">
+<p class="center larger">Transcriber’s Note</p>
+
+<p>Larger versions of most illustrations may be seen by right-clicking them
+and selecting an option to view them separately, or by double-tapping and/or
+stretching them.</p>
+
+<p><a href="#Transcribers_Notes" class="pginternal">Additional notes</a> will be found near the end of this ebook.</p>
+<div>                                                                                                                                                                                                                           </div>
+</div>
+
+<div class="section">
+<figure class="figcenter" style="max-width: 20em;"><img alt="(Cover)" height="2560" src="images/cover.jpg" width="1600" id="id-5911665790258511098"></figure>
+<div>                                                                                                                                                                                                                           </div>
+</div>
+
+<div class="section center wspace p4">
+<div class="bbox"><div class="bbox2"><div class="bbox3">
+<h1>The<br>
+<span class="larger">Story of Rope</span></h1>
+
+<p class="p2">The History and the<br>
+Modern Development<br>
+of Rope-Making.</p>
+
+<p class="p4 b1"><span class="smaller"><i>Compiled and Published by</i></span><br>
+<span class="larger">Plymouth Cordage Company</span><br>
+NORTH PLYMOUTH, MASS.<br>
+WELLAND, ONTARIO<br>
+1916</p>
+</div></div></div>
+
+<p class="xxsmall">Copyright 1916, by Plymouth Cordage Company <span class="in2">663-11-15-5-28500</span></p>
+</div>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<h2 class="nobreak" id="FOREWORD">FOREWORD</h2>
+</div>
+
+<p class="drop-cap-text"><span class="smcap1">The</span> matter contained in this book
+originally appeared, in substantially
+the same form, as a series of articles in
+our monthly publication “Plymouth
+Products.” The story aimed to make
+better known an industry previously little
+understood and thereby to advance the
+cause of good rope.</p>
+
+<p>First and last this “Story of Rope”
+has had many interested and responsive
+readers. Encouraged by the large numbers
+of requests for it which continually
+come to us, we are now led to publish it
+anew and with the hope that in its present
+improved form it will still further
+fulfill its original purpose.</p>
+
+<p class="right">
+<span class="smcap">Plymouth Cordage Company</span>
+</p>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<h2 class="nobreak" id="CONTENTS">CONTENTS</h2>
+</div>
+
+<table id="toc">
+<tbody><tr>
+  <td class="tdc chap" colspan="3">PART I</td>
+</tr>
+<tr>
+  <td class="tdc chapsub" colspan="3"><span class="smcap">Historical</span></td>
+</tr>
+<tr class="xsmall">
+  <td class="tdl" colspan="2">CHAPTER</td>
+  <td class="tdr">PAGE</td>
+</tr>
+<tr>
+  <td class="tdr top">I</td>
+  <td class="tdl">Ancient, Mediæval and Tribal Rope-Making</td>
+  <td class="tdr"><a href="#toclink_11" class="pginternal">11</a></td>
+</tr>
+<tr>
+  <td class="tdr top">II</td>
+  <td class="tdl">Rope-Making in the Seventeenth, Eighteenth and Early Nineteenth Centuries</td>
+  <td class="tdr"><a href="#toclink_19" class="pginternal">19</a></td>
+</tr>
+<tr>
+  <td class="tdc chap" colspan="3">PART II</td>
+</tr>
+<tr>
+  <td class="tdc chapsub" colspan="3"><span class="smcap">Raw Materials</span></td>
+</tr>
+<tr>
+  <td class="tdr top">I</td>
+  <td class="tdl">Manila Fiber</td>
+  <td class="tdr"><a href="#toclink_27" class="pginternal">27</a></td>
+</tr>
+<tr>
+  <td class="tdr top">II</td>
+  <td class="tdl">Sisal Fiber</td>
+  <td class="tdr"><a href="#toclink_35" class="pginternal">35</a></td>
+</tr>
+<tr>
+  <td class="tdr top">III</td>
+  <td class="tdl">The Hemps—American, Russian, Italian. Other Fibers</td>
+  <td class="tdr"><a href="#toclink_43" class="pginternal">43</a></td>
+</tr>
+<tr>
+  <td class="tdr top">IV</td>
+  <td class="tdl">Pine Tar.</td>
+  <td class="tdr"><a href="#toclink_49" class="pginternal">49</a></td>
+</tr>
+<tr>
+  <td class="tdc chap" colspan="3">PART III</td>
+</tr>
+<tr>
+  <td class="tdl chapsub" colspan="3"><span class="smcap">Present Day Manufacturing Processes Methods and Equipment as Seen in the World’s Largest Cordage Factory</span></td>
+</tr>
+<tr>
+  <td class="tdr top">I</td>
+  <td class="tdl">Buying, Grading and Storing of Fiber</td>
+  <td class="tdr"><a href="#toclink_55" class="pginternal">55</a></td>
+</tr>
+<tr>
+  <td class="tdr top">II</td>
+  <td class="tdl">Preparation of Fiber for Spinning—Formation of “Sliver”</td>
+  <td class="tdr"><a href="#toclink_63" class="pginternal">63</a></td>
+</tr>
+<tr>
+  <td class="tdr top">III</td>
+  <td class="tdl">Spinning of Rope Yarn and Binder Twine</td>
+  <td class="tdr"><a href="#toclink_71" class="pginternal">71</a></td>
+</tr>
+<tr>
+  <td class="tdr top">IV</td>
+  <td class="tdl">Tarring of Rope Yarns and of Small Ropes</td>
+  <td class="tdr"><a href="#toclink_77" class="pginternal">77</a></td>
+</tr>
+<tr>
+  <td class="tdr top">V</td>
+  <td class="tdl">Forming and Laying of Ropes and Cables—Ropewalk Method</td>
+  <td class="tdr"><a href="#toclink_79" class="pginternal">79</a></td>
+</tr>
+<tr>
+  <td class="tdr top">VI</td>
+  <td class="tdl">Forming and Laying of Ropes and Cables—Factory Method, Two-Machine System</td>
+  <td class="tdr"><a href="#toclink_85" class="pginternal">85</a></td>
+</tr>
+<tr>
+  <td class="tdr top">VII</td>
+  <td class="tdl">Forming and Laying of Ropes—Factory Method, Single-Machine System</td>
+  <td class="tdr"><a href="#toclink_91" class="pginternal">91</a></td>
+</tr>
+</tbody></table>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<p><span class="pagenum" id="Page_vii">vii</span></p>
+
+<h2 class="nobreak" id="ILLUSTRATIONS">ILLUSTRATIONS</h2>
+</div>
+
+<table id="loi">
+<tbody><tr class="xsmall">
+  <td class="tdr" colspan="2">PAGE</td>
+</tr>
+<tr>
+  <td class="tdl">Ancient Egyptian rope</td>
+  <td class="tdr"><a href="#ip_12" class="pginternal">12</a></td>
+</tr>
+<tr>
+  <td class="tdl">Nootka whaling lines</td>
+  <td class="tdr"><a href="#ip_13" class="pginternal">13</a></td>
+</tr>
+<tr>
+  <td class="tdl">Ancient Egyptian rope-making methods</td>
+  <td class="tdr"><a href="#ip_14" class="pginternal">14</a></td>
+</tr>
+<tr>
+  <td class="tdl">Use of rope in ancient Egyptian kitchen</td>
+  <td class="tdr"><a href="#ip_14b" class="pginternal">14</a></td>
+</tr>
+<tr>
+  <td class="tdl">Specimens of ancient Egyptian cordage</td>
+  <td class="tdr"><a href="#ip_15" class="pginternal">15</a></td>
+</tr>
+<tr>
+  <td class="tdl">Detail of sculptured rope from Triumphal Arch at Orange</td>
+  <td class="tdr"><a href="#ip_16" class="pginternal">17</a></td>
+</tr>
+<tr>
+  <td class="tdl">Attic sailing ship, sixth century B.C.</td>
+  <td class="tdr"><a href="#ip_17" class="pginternal">17</a></td>
+</tr>
+<tr>
+  <td class="tdl">Mayflower in Plymouth harbor</td>
+  <td class="tdr"><a href="#ip_18" class="pginternal">18</a></td>
+</tr>
+<tr>
+  <td class="tdl">Office of Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_19b" class="pginternal">20</a></td>
+</tr>
+<tr>
+  <td class="tdl">Bourne Spooner, founder of Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_21" class="pginternal">21</a></td>
+</tr>
+<tr>
+  <td class="tdl">First advertisement of Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_21b" class="pginternal">21</a></td>
+</tr>
+<tr>
+  <td class="tdl">Old-time method of hackling cordage fiber</td>
+  <td class="tdr"><a href="#ip_22" class="pginternal">22</a></td>
+</tr>
+<tr>
+  <td class="tdl">Spinning rope yarn by hand with old-time spinning wheel</td>
+  <td class="tdr"><a href="#ip_23" class="pginternal">23</a></td>
+</tr>
+<tr>
+  <td class="tdl">Pilgrim Hall, Plymouth</td>
+  <td class="tdr"><a href="#ip_24" class="pginternal">24</a></td>
+</tr>
+<tr>
+  <td class="tdl">Hank of Manila fiber</td>
+  <td class="tdr"><a href="#ip_28" class="pginternal">28</a></td>
+</tr>
+<tr>
+  <td class="tdl">Philippine hemp cart</td>
+  <td class="tdr"><a href="#ip_29" class="pginternal">29</a></td>
+</tr>
+<tr>
+  <td class="tdl">Filipino cleaning Manila fiber</td>
+  <td class="tdr"><a href="#ip_30" class="pginternal">30</a></td>
+</tr>
+<tr>
+  <td class="tdl">Filipinos preparing Manila fiber for market</td>
+  <td class="tdr"><a href="#ip_30b" class="pginternal">31</a></td>
+</tr>
+<tr>
+  <td class="tdl">Examining Manila fiber at dock</td>
+  <td class="tdr"><a href="#ip_32" class="pginternal">32</a></td>
+</tr>
+<tr>
+  <td class="tdl">Suburb of Manila—Manila fiber plant growing</td>
+  <td class="tdr"><a href="#ip_33" class="pginternal">33</a></td>
+</tr>
+<tr>
+  <td class="tdl">Philippine street scene</td>
+  <td class="tdr"><a href="#ip_34" class="pginternal">34</a></td>
+</tr>
+<tr>
+  <td class="tdl">Gathering leaves of Sisal fiber plant</td>
+  <td class="tdr"><a href="#ip_36" class="pginternal">36</a></td>
+</tr>
+<tr>
+  <td class="tdl">Loading Sisal fiber leaves on plantation car</td>
+  <td class="tdr"><a href="#ip_37" class="pginternal">37</a></td>
+</tr>
+<tr>
+  <td class="tdl">Scenes at cleaner house on Sisal fiber plantation</td>
+  <td class="tdr"><a href="#ip_38" class="pginternal">38</a></td>
+</tr>
+<tr>
+  <td class="tdl">Bale of Sisal fiber</td>
+  <td class="tdr"><a href="#ip_39" class="pginternal">39</a></td>
+</tr>
+<tr>
+  <td class="tdl">Machine separating Sisal fiber from leaves</td>
+  <td class="tdr"><a href="#ip_40" class="pginternal">40</a></td>
+</tr>
+<tr>
+  <td class="tdl">Sisal fiber drying</td>
+  <td class="tdr"><a href="#ip_41" class="pginternal">41</a></td>
+</tr>
+<tr>
+  <td class="tdl">Sisal fiber steamer at Plymouth Cordage Company’s pier</td>
+  <td class="tdr"><a href="#ip_42" class="pginternal">42</a></td>
+</tr>
+<tr>
+  <td class="tdl">American hemp stacked in fields</td>
+  <td class="tdr"><a href="#ip_46" class="pginternal">44</a></td>
+</tr>
+<tr>
+  <td class="tdl">Preparing American hemp for market</td>
+  <td class="tdr"><a href="#ip_46b" class="pginternal">45</a></td>
+</tr>
+<tr>
+  <td class="tdl">New Zealand flax plant</td>
+  <td class="tdr"><a href="#ip_46c" class="pginternal">46</a></td>
+</tr>
+<tr>
+  <td class="tdl">Hemp growing by the water</td>
+  <td class="tdr"><a href="#ip_47" class="pginternal">47</a></td>
+</tr>
+<tr>
+  <td class="tdl">Uncle Ben, hemp breaker</td>
+  <td class="tdr"><a href="#ip_48" class="pginternal">48</a></td>
+</tr>
+<tr>
+  <td class="tdl">Pine tar manufacturing methods</td>
+  <td class="tdr"><a href="#ip_50" class="pginternal">50</a><span class="pagenum" id="Page_viii">viii</span></td>
+</tr>
+<tr>
+  <td class="tdl">Pine tar handling at naval stores yard</td>
+  <td class="tdr"><a href="#ip_52" class="pginternal">52</a></td>
+</tr>
+<tr>
+  <td class="tdl">Examining and re-grading Manila fiber at cordage factory</td>
+  <td class="tdr"><a href="#ip_56" class="pginternal">56</a></td>
+</tr>
+<tr>
+  <td class="tdl">Track and warehouse facilities, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_57" class="pginternal">57</a></td>
+</tr>
+<tr>
+  <td class="tdl">Stacking Manila fiber in warehouse</td>
+  <td class="tdr"><a href="#ip_59" class="pginternal">58</a></td>
+</tr>
+<tr>
+  <td class="tdl">Trucking Manila fiber into warehouse</td>
+  <td class="tdr"><a href="#ip_59b" class="pginternal">59</a></td>
+</tr>
+<tr>
+  <td class="tdl">Sisal fiber being transferred from warehouse to mill</td>
+  <td class="tdr"><a href="#ip_60" class="pginternal">60</a></td>
+</tr>
+<tr>
+  <td class="tdl">No. 2 tar house, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_61" class="pginternal">61</a></td>
+</tr>
+<tr>
+  <td class="tdl">No. 3 mill, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_62" class="pginternal">62</a></td>
+</tr>
+<tr>
+  <td class="tdl">Preparation room, No. 3 mill, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_63b" class="pginternal">64</a></td>
+</tr>
+<tr>
+  <td class="tdl">Lubricating oil mixing room, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_65" class="pginternal">65</a></td>
+</tr>
+<tr>
+  <td class="tdl">Formation of sliver on first breaker</td>
+  <td class="tdr"><a href="#ip_66" class="pginternal">66</a></td>
+</tr>
+<tr>
+  <td class="tdl">Reducing size of sliver on preparation machines</td>
+  <td class="tdr"><a href="#ip_66b" class="pginternal">67</a></td>
+</tr>
+<tr>
+  <td class="tdl">Draw frame machines</td>
+  <td class="tdr"><a href="#ip_67" class="pginternal">68</a></td>
+</tr>
+<tr>
+  <td class="tdl">Plymouth Cordage Company factory in early days and today</td>
+  <td class="tdr"><a href="#ip_70" class="pginternal">70</a></td>
+</tr>
+<tr>
+  <td class="tdl">Spinning machine of early nineteenth century</td>
+  <td class="tdr"><a href="#ip_72" class="pginternal">72</a></td>
+</tr>
+<tr>
+  <td class="tdl">Modern spinning machine</td>
+  <td class="tdr"><a href="#ip_73" class="pginternal">73</a></td>
+</tr>
+<tr>
+  <td class="tdl">Spinning room, No. 1 mill, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_74" class="pginternal">74</a></td>
+</tr>
+<tr>
+  <td class="tdl">Spinning room, No. 3 mill, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_75" class="pginternal">75</a></td>
+</tr>
+<tr>
+  <td class="tdl">Tar storage and handling equipment, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_76" class="pginternal">76</a></td>
+</tr>
+<tr>
+  <td class="tdl">Tarring of rope yarns</td>
+  <td class="tdr"><a href="#ip_78" class="pginternal">78</a></td>
+</tr>
+<tr>
+  <td class="tdl">Ropewalk manufacturing processes</td>
+  <td class="tdr"><a href="#ip_81" class="pginternal">80</a></td>
+</tr>
+<tr>
+  <td class="tdl">Interior of ropewalk, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_81b" class="pginternal">82</a></td>
+</tr>
+<tr>
+  <td class="tdl">Sixteen-inch towline with eye-splice</td>
+  <td class="tdr"><a href="#ip_83" class="pginternal">83</a></td>
+</tr>
+<tr>
+  <td class="tdl">Lathyarn and tie rope machines, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_84" class="pginternal">84</a></td>
+</tr>
+<tr>
+  <td class="tdl">Rope-making machinery, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_87" class="pginternal">87</a></td>
+</tr>
+<tr>
+  <td class="tdl">Removing reel from forming machine</td>
+  <td class="tdr"><a href="#ip_89" class="pginternal">89</a></td>
+</tr>
+<tr>
+  <td class="tdl">Compound laying-machine, four-strand type</td>
+  <td class="tdr"><a href="#ip_90" class="pginternal">90</a></td>
+</tr>
+<tr>
+  <td class="tdl">Shipping platform, Plymouth Cordage Company</td>
+  <td class="tdr"><a href="#ip_92" class="pginternal">92</a></td>
+</tr>
+</tbody></table>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter section">
+<h2 class="nobreak" id="Part_I"> <span class="larger">Part I</span></h2>
+<div>                                                                                                                                                                                                                           </div>
+</div>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter section">
+<h2 class="nobreak" id="THE_ROPEWALK">THE ROPEWALK</h2>
+</div>
+
+<div class="poetry-container">
+<div class="poetry">
+  <div class="stanza">
+    <div class="verse indent0">In that building, long and low,</div>
+    <div class="verse indent0">With its windows all a-row,</div>
+    <div class="verse indent2">Like the port-holes of a hulk,</div>
+    <div class="verse indent0">Human spiders spin and spin,</div>
+    <div class="verse indent0">Backward down their threads so thin</div>
+    <div class="verse indent2">Dropping, each a hempen bulk.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">At the end, an open door;</div>
+    <div class="verse indent0">Squares of sunshine on the floor</div>
+    <div class="verse indent2">Light the long and dusky lane;</div>
+    <div class="verse indent0">And the whirring of a wheel,</div>
+    <div class="verse indent0">Dull and drowsy, makes me feel</div>
+    <div class="verse indent2">All its spokes are in my brain.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">As the spinners to the end</div>
+    <div class="verse indent0">Downward go and reascend,</div>
+    <div class="verse indent2">Gleam the long threads in the sun;</div>
+    <div class="verse indent0">While within this brain of mine</div>
+    <div class="verse indent0">Cobwebs brighter and more fine</div>
+    <div class="verse indent2">By the busy wheel are spun.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Two fair maidens in a swing,</div>
+    <div class="verse indent0">Like white doves upon the wing,</div>
+    <div class="verse indent2">First before my vision pass;</div>
+    <div class="verse indent0">Laughing, as their gentle hands</div>
+    <div class="verse indent0">Closely clasp the twisted strands,</div>
+    <div class="verse indent2">At their shadow on the grass.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Then a booth of mountebanks,</div>
+    <div class="verse indent0">With its smell of tan and planks,</div>
+    <div class="verse indent2">And a girl poised high in air</div>
+    <div class="verse indent0">On a cord, in spangled dress,</div>
+    <div class="verse indent0">With a faded loveliness,</div>
+    <div class="verse indent2">And a weary look of care.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Then a homestead among farms,</div>
+    <div class="verse indent0">And a woman with bare arms</div>
+    <div class="verse indent2">Drawing water from a well;</div>
+    <div class="verse indent0">As the bucket mounts apace,</div>
+    <div class="verse indent0">With it mounts her own fair face,</div>
+    <div class="verse indent2">As at some magician’s spell.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Then an old man in a tower,</div>
+    <div class="verse indent0">Ringing loud the noontide hour,</div>
+    <div class="verse indent2">While the rope coils round and round</div>
+    <div class="verse indent0">Like a serpent at his feet,</div>
+    <div class="verse indent0">And again, in swift retreat,</div>
+    <div class="verse indent2">Nearly lifts him from the ground.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Then within a prison-yard,</div>
+    <div class="verse indent0">Faces fixed, and stern, and hard,</div>
+    <div class="verse indent2">Laughter and indecent mirth;</div>
+    <div class="verse indent0">Ah! it is the gallows-tree!</div>
+    <div class="verse indent0">Breath of Christian charity,</div>
+    <div class="verse indent2">Blow, and sweep it from the earth!</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Then a schoolboy, with his kite</div>
+    <div class="verse indent0">Gleaming in a sky of light,</div>
+    <div class="verse indent2">And an eager, upward look;</div>
+    <div class="verse indent0">Steeds pursued through lane and field;</div>
+    <div class="verse indent0">Fowlers with their snares concealed;</div>
+    <div class="verse indent2">And an angler by a brook.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Ships rejoicing in the breeze,</div>
+    <div class="verse indent0">Wrecks that float o’er unknown seas,</div>
+    <div class="verse indent2">Anchors dragged through faithless sand;</div>
+    <div class="verse indent0">Sea-fog drifting overhead,</div>
+    <div class="verse indent0">And, with lessening line and lead,</div>
+    <div class="verse indent2">Sailors feeling for the land.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">All these scenes do I behold,</div>
+    <div class="verse indent0">These, and many left untold,</div>
+    <div class="verse indent2">In that building long and low;</div>
+    <div class="verse indent0">While the wheel goes round and round,</div>
+    <div class="verse indent0">With a drowsy, dreamy sound,</div>
+    <div class="verse indent2">And the spinners backward go.</div>
+  </div>
+  <div class="attrib">—<span class="smcap">Longfellow.</span></div>
+</div>
+</div>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+
+<figure class="figcenter headpiece"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-6159427631314511090"></figure>
+
+<p><span class="pagenum" id="Page_11">11</span></p>
+
+<h2 class="nobreak" id="toclink_11">CHAPTER I<br>
+
+<span class="subhead"><span class="smcap">Ancient, Mediæval and Tribal Rope-Making</span></span></h2>
+</div>
+
+<p class="idc"><img alt="H" height="433" src="images/i_011_2h.png" width="400" id="id-2467680228836805657">
+<span class="firstword">How</span> many people have ever given a thought to
+the question of where rope comes from and
+how it is made, or realize what a variety of
+uses it is put to, and how dependent we are
+upon it in many of the everyday affairs of life? But
+let us suppose for a moment that the world were suddenly
+deprived of its supply of this very commonplace
+material, and of its smaller relatives, cords and twine.
+We should then begin to realize the importance of a
+seemingly unimportant thing, and to appreciate the
+difficulty in getting along without it.</p>
+
+<p>Longfellow, in his poem “The Ropewalk,” which we
+have printed, shows that he recognized the scope of the
+usefulness of rope, and appreciated the romance and
+pathos connected with the use of a seemingly prosaic
+article; for in his brief catalogue of the uses of rope
+which passed in pictured procession through his mind,
+as he stood in the ropewalk and came under the influence
+of the drowsy hum and whir of the spinners’
+wheels, he succeeded in covering a good share of the
+changing phases in the drama of human life: childhood<span class="pagenum" id="Page_12">12</span>
+in its swing, happy, without a care;
+the life of the sailor, which, with its
+heroism, its romance, its courageous
+meeting of danger or disaster, has always
+been the subject of verse and
+story; the pathetic picture of the faded
+beauty on the tight rope; and the tragic
+scene of the criminal dying upon the
+gallows.</p>
+
+<figure class="figleft" style="max-width: 6em;" id="ip_12">
+  <img alt=" " height="3186" src="images/i_012.jpg" width="1015" id="id-6650105649016819890">
+  <figcaption class="caption">ANCIENT EGYPTIAN ROPE
+</figcaption></figure>
+
+<p>“All these and many left untold,” the
+poet says, and when we once begin to let
+our thoughts run we find uses almost
+innumerable, on sea and land, to which
+our rope is put. Then, if we allow ourselves
+to come more and more under
+the drowsy spell of the wheels, we wonder
+how long all these things have been
+going on, and when, where and how
+the first rope was made and used.</p>
+
+<p>A little investigation shows us
+that the use of rope is older than
+history itself. Back beyond the
+time of any authentic record of
+events, beyond even the range of
+tradition, the first rope-makers
+did their work.</p>
+
+<p>In his very earliest days man
+must have had something to
+serve for cords or lines,—strips of hide or of bark,
+pliant reeds and rushes, withes of tough woods, fibrous
+roots, hair of animals,—then, as the need arose for
+longer, larger and stronger lines, it was met, as human
+ingenuity developed, by twisting a number of some of
+these elements together and forming a rope or cord.
+Just who was the prehistoric genius that first performed<span class="pagenum" id="Page_13">13</span>
+this operation, or in what part of the world he lived,
+we have no means of knowing.</p>
+
+<p>Certain it is, according to the best authority, that
+not only were the ancient civilized nations accomplished
+rope-makers, but savage tribes in all parts of the world,
+for unknown thousands of years, have been able to
+make ropes and cords from a great variety of materials,
+and the beauty of their workmanship in many cases
+is little short of marvelous.</p>
+
+<p>The North American Indians, for instance, are
+known to have made cordage not only from well-known
+fiber plants, as cotton, yucca and agave, but from such
+plants as the dogbane and nettle; from the inner bark
+of trees, slippery elm, willow, linden; from the fibrous
+roots of the spruce and pine; and from the hair, skins
+or sinews of various animals.</p>
+
+<figure class="figcenter" style="max-width: 24em;" id="ip_13">
+  <img alt=" " height="1321" src="images/i_013.jpg" width="2455" id="id-8026209295562806704">
+  <figcaption class="caption">NOOTKA WHALING LINES
+</figcaption></figure>
+
+<p>The native Peruvians were good rope-makers, using a
+substance known as “totora,” as well as many other materials.
+The Island tribes of the South Seas, expert in
+making rope, are favored with some very good materials
+for its manufacture, obtained from the leaves of various
+palms and plantains, from the fiber of the cocoanut, etc.</p>
+
+<p><span class="pagenum" id="Page_14">14</span></p>
+
+<figure class="figcenter" style="max-width: 24em;" id="ip_14">
+  <img alt=" " height="806" src="images/i_014_1.jpg" width="2506" id="id-331491955833003212">
+</figure>
+
+<p>As, at the present day, the
+shipping and fishing industries
+are among the principal users of cordage, so it has been
+among all tribes and nations from earliest times. The
+people who lived on islands or the shores of large bodies
+of water, and who thus naturally became fishermen,
+have been the larger users of ropes and lines, and we
+find they always have been capable of producing a wide
+variety of fishing lines and nets of excellent construction,
+capable of capturing all sorts of fish, from the smallest
+brook trout to the huge sturgeon or halibut.</p>
+
+<figure class="figcenter" style="max-width: 16em;" id="ip_14b">
+  <img alt=" " height="805" src="images/i_014_2.jpg" width="1532" id="id-8879737848949338249">
+  <figcaption class="caption">SCENE IN AN EGYPTIAN KITCHEN SHOWING USE OF A
+LARGE ROPE TO SUPPORT A SORT OF HANGING SHELF
+</figcaption></figure>
+
+<p>Even the whale has been successfully hunted by some
+adventurous tribes, and we show a picture of lines made
+by the Nootka Indians of Vancouver Island,<a class="fnanchor pginternal" href="#Footnote_1" id="FNanchor_1">A</a> which
+are used by them in harpooning whales. The smaller
+rope is made from sinews of the whale, served or wound
+with small cord. It is very pliable and exceedingly
+strong. The harpoon is fastened to this line, which, in
+turn, is fastened to
+the larger rope and
+that to the boat.
+The large rope
+shown is made
+from spruce roots
+and is about two
+inches in diameter.</p>
+
+<div class="footnote">
+
+<p><a class="label pginternal" href="#FNanchor_1" id="Footnote_1">A</a> The photograph shown on
+<a href="#ip_13" class="pginternal">page 13</a> was taken expressly for us through the
+courtesy of the officials of the Peabody Museum, Cambridge, Mass., to whom we
+are also indebted for our information concerning the use of rope among the various
+primitive tribes.</p>
+
+</div>
+
+<p><span class="pagenum" id="Page_15">15</span></p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_15">
+  <img alt=" " height="3358" src="images/i_015.jpg" width="2373" id="id-6242066878254987191">
+  <figcaption class="caption"><p>ANCIENT EGYPTIAN RELICS</p>
+
+<p class="smaller">BRIDLE OF HEMP ROPE COVERED WITH WOVEN COTTON—HALTER OF BRAIDED LEATHER
+BASKET WITH ROPE HANDLES—PALM FIBER ROPE</p>
+</figcaption></figure>
+
+<p>Ancient civilized peoples had their ropes and cordage,
+made from such materials as were available in their
+respective countries. The Egyptians are said to have<span class="pagenum" id="Page_16">16</span>
+made rope from leather thongs, and our illustration on
+<a href="#ip_14" class="pginternal">page 14</a> will be found interesting in this connection.
+This is from a sculpture taken from a tomb in Thebes
+of the time of the Pharaoh of the Exodus.</p>
+
+<p>While this scene is said by the best authority to
+represent the preparation of leather cords for use in
+lacing sandals, it has been supposed by some to be a
+representation of rope-making. In any event, the process
+is undoubtedly the same as that used in making
+rope.</p>
+
+<p>The scene is depicted with the true Egyptian faculty
+for showing details, making words almost unnecessary
+to an understanding of their pictorial records. We
+see the raw material in the shape of the hide, and also
+two well-made coils of the finished product. One of
+the workmen is cutting a strand from a hide by revolving
+it and cutting as it turns. Anyone who has not
+tried it will be surprised to see what a good, even string
+can be cut from a piece of leather in this way.</p>
+
+<figure class="figleft" style="max-width: 9em;" id="ip_16">
+  <img alt=" " height="1122" src="images/i_017_1.jpg" width="899" id="id-5661636358543387665">
+  <figcaption class="caption">DETAIL OF BAS-RELIEF FROM TRIUMPHAL ARCH AT ORANGE
+</figcaption></figure>
+
+<p>Another man is arranging and paying out the thongs
+to a third, who is evidently walking backward in time-honored
+fashion, twisting as he goes. The thongs are
+evidently tied to a sort of swivel which is fastened to
+the man’s body in such a way that it enables him to
+keep a strain upon the strand without interfering with
+the twisting, in which process the weight shown upon
+the swivel is probably of some assistance.</p>
+
+<p>The Egyptians also made rope from papyrus and
+from palm fiber. The specimen shown in our illustration<a class="fnanchor pginternal" href="#Footnote_2" id="FNanchor_2">B</a>
+is from the latter material, and was made
+probably not less than 3,500 years ago, having been
+taken from an ancient tomb. It has always been a
+puzzling question how the Egyptians were able to<span class="pagenum" id="Page_17">17</span>
+move and put in place the massive stones
+used in some of their structures, but it
+is certain that rope must have
+been an indispensable part of
+their equipment. Indeed, some
+of the sculptures illustrate the
+free use of rope in moving heavy
+stone carvings. It is known that
+rope was made in China at a very
+remote period.</p>
+
+<div class="footnote clear">
+
+<p><a class="label pginternal" href="#FNanchor_2" id="Footnote_2">B</a> See <a href="#Page_15" class="pginternal">page 15</a>. Photograph from the original specimens taken expressly for us
+through the courtesy of the Boston Museum of Fine Arts.</p>
+
+</div>
+
+<p>It is of course certain that
+when men began to propel boats by means of sails, some
+sort of rope must have been at hand for rigging such
+vessels. The early history of the building of sailing ships
+seems to be lost in obscurity, but many of the ancients
+were good sailors, there seeming to be some difference
+of opinion as to who were the pioneers in undertaking
+long voyages. We show an illustration of an Attic sailing
+ship of the sixth century B.C. The drawing was made
+from the painting on a drinking cup in the collection of
+the British Museum. We also give a picture illustrating
+a detail of the bas-relief from the triumphal arch at
+Orange erected about A.D. 41. This shows an anchor
+and a coil of rope, evidently a halyard for a good-sized
+sail, rove through a pulley. In these and numerous
+other cases we have records of the use of rope among
+the Greeks and Romans, as well as similar ones from
+other nations, handed down to us through their
+sculptures and paintings.</p>
+
+<figure class="figright" style="max-width: 13em;" id="ip_17">
+  <img alt=" " height="756" src="images/i_017_2.jpg" width="1335" id="id-5138389740890495117">
+  <figcaption class="caption">ATTIC SAILING SHIP, SIXTH CENTURY B.C.
+</figcaption></figure>
+
+<p>The historians also
+occasionally mention the
+use of rope in connection
+with some great undertaking.
+Herodotus tells
+us that Xerxes, during<span class="pagenum" id="Page_18">18</span>
+his invasion of Greece, B.C. 480, crossed his army over
+the Hellespont upon two bridges of boats, which were
+held together, and the plank roadway supported, by
+enormous cables stretched from shore to shore, a distance
+of seven-eighths of a mile. It is said that these
+ropes, of which there were six to each bridge, were
+twenty-eight inches in circumference, two of each set
+being made of flax and four of papyrus. It is stated
+that the famous galley, the <i>Syracusia</i>, built for Hiero
+under the supervision of Archimedes, was furnished
+with hempen rope from Rhodes.</p>
+
+<figure class="figcenter" style="max-width: 20em;" id="ip_18">
+  <img alt=" " height="1306" src="images/i_018.jpg" width="2039" id="id-8774016174752399997">
+  <figcaption class="caption">MAYFLOWER IN PLYMOUTH HARBOR
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<p><span class="pagenum" id="Page_19">19</span></p>
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-4911972135571053704"></figure>
+
+<h2 class="nobreak" id="toclink_19">CHAPTER II<br>
+
+<span class="subhead"><span class="smcap">Rope-Making in the Seventeenth, Eighteenth
+and Early Nineteenth Centuries</span></span></h2>
+</div>
+
+<p class="idc"><img alt="C" height="434" src="images/i_019_2c.png" width="401" id="id-8078107569622660299">
+<span class="firstword">Coming</span> down to more recent times we find
+that rope-making had been going on for centuries
+with probably very little change, up
+to the time of the introduction of machinery
+and the establishment of the factory system. It had
+been carried on as a domestic industry, or a trade
+handed down from father to son, and naturally was of
+most importance in the principal seaport towns where
+vessels were built or fitted out.</p>
+
+<p>This was the state of the business at the time of the
+settlement of America, and it was not long before the
+rope-maker began to be needed as a citizen of the new
+Colonies. This need was felt in Boston with the first
+efforts at shipbuilding there, and was also suggested by
+the great demand for fishing lines, the cod-fisheries being
+of great importance upon the Massachusetts coast.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_19b">
+  <img alt=" " height="1890" src="images/i_020.jpg" width="2420" id="id-5717971838132443838">
+  <figcaption class="caption">OFFICE OF PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+
+<p>It is recorded that rope was made in Boston as early
+as 1641 or 1642. John Harrison, a rope-maker of Salisbury,
+England, came to this country at the request of
+a number of citizens of Boston, and set up his business
+in that village. He seems to have had a monopoly of<span class="pagenum" id="Page_20">20</span>
+the local trade for a good many years, under the paternal
+protection of the town authorities, for John Heyman,
+to whom permission to make rope in Boston was
+given in 1662, was the next year ordered to give up the
+work and depart from the town, it being found that
+this competition interfered with Harrison’s business to
+such an extent as to make it difficult for him to properly
+support his family of eleven persons.</p>
+
+<figure class="figleft" style="max-width: 14em;" id="ip_21">
+  <img alt=" " height="1358" src="images/i_021_1.jpg" width="1044" id="id-4286479456638217620">
+  <figcaption class="caption">BOURNE SPOONER
+</figcaption></figure>
+
+<p>However, upon the death of Harrison this monopoly
+came to an end, and ropewalks began to multiply in
+Boston as well as in other parts of the country. In
+1794 there were fourteen large ropewalks in Boston,
+the business having steadily increased with the development
+of the new country. The importance of
+this industry is shown by the report that in the federal
+procession in Boston in 1788, the rope-makers outnumbered
+any other class of mechanics.</p>
+
+<p><span class="pagenum" id="Page_21">21</span></p>
+
+<p>In 1810 there were 173 ropewalks
+in the United States, scattered
+over the country from Maine
+to Kentucky.</p>
+
+<p>In 1824 the infant Plymouth
+Cordage Company entered upon
+the scene and gradually but surely
+became an important factor in
+the trade, until today it stands at
+the head.</p>
+
+<p>In the first half of the last century
+Manila hemp began to take
+its place as a cordage fiber. According
+to official records, 27,820 bales were imported
+to the United States in 1843. This figure looks small
+when compared with a recent high figure of approximately
+830,000 bales in a single year. The first record
+of the importation of Sisal is in 1860, when the United
+States received 1,393 bales. This has increased to
+1,000,000 bales.</p>
+
+<figure class="figcenter clear" style="max-width: 50em;" id="ip_21b">
+  <img alt=" " height="1402" src="images/i_021_2.jpg" style="max-width: 15em;" width="1386" id="id-6965050553345094547">
+  <figcaption class="caption"><p>PATENT AND COMMON-LAID</p>
+
+<p><i>CORDAGE</i>,</p>
+
+<p>Manufactured by Water-Power.</p>
+
+<div class="blockquot justify">
+
+<p class="drop-cap-text"><span class="smcap1">The</span> <i>Plymouth Cordage Company</i> hereby
+give notice, that they have on hand <em>One
+Hundred Tons, Clean St. Petersburg Hemp</em>, of
+superior quality, which they are ready to
+manufacture into <em>Cordage</em> of any size or description
+to suit purchasers. Their <em>machinery</em>
+and <em>water privilege</em> is equal to any in the
+Country—and their <em>Cordage</em> shall in every
+respect be equal to their advantages. All orders
+for <em>Cordage</em>, in any quantities shall receive
+immediate attention, at the Ropewalks,
+from</p>
+</div>
+
+<p class="floatr l4">
+<i>BOURNE SPOONER</i>.
+</p>
+
+<p class="floatc">
+<i>Plymouth, March 12, 1825.</i> <span class="in2">tf46</span>
+</p>
+
+<div class="blockquot">
+
+<p>N. B. A number of good Spinners would
+find employment as above.</p>
+</div>
+
+<p>PLYMOUTH CORDAGE COMPANY’S FIRST ADVERTISEMENT</p>
+</figcaption></figure>
+
+<p>The large consumption of Sisal during recent years
+has been caused by the production of binder twine,
+which has now become
+an important
+part of the cordage
+business. This company
+first made
+binder twine in 1882.
+In 1899 it completed
+its No. 2 Mill, devoted
+entirely to this
+product, and by the
+completion of the
+Welland (Ontario)
+factory in 1906 was<span class="pagenum" id="Page_22">22</span>
+enabled to supply its
+large Canadian trade
+from that point. The
+Sheaf of Wheat trademark
+and the name
+“Plymouth” on binder
+twine are now known
+the world over and, as
+in the case of the Ship
+brand on rope, are always
+recognized as
+standing for quality.</p>
+
+<figure class="figleft" style="max-width: 14em;" id="ip_22">
+  <img alt=" " height="2006" src="images/i_022.jpg" width="1449" id="id-3077307751863621081">
+  <figcaption class="caption">OLD-TIME METHOD OF HACKLING
+</figcaption></figure>
+
+<p>In the early days to
+which we have referred,
+all the yarn for rope-making
+was spun by
+hand in the time-honored
+way. We are able
+to represent to our readers,
+by the photographs shown, this now almost lost art.
+The material shown in the pictures is American hemp,
+which, because the earlier machines were not adapted
+to working this softer fiber, continued to be spun by
+hand long after Manila was spun chiefly on machines.</p>
+
+<p>The hemp was first hackled, as is also shown by our
+photograph, the hackle or “hechel” being simply a
+board having long, sharp steel teeth set into it. This
+combed out the tow or short, matted fiber, leaving the
+clean, straight hemp. This “strike” of hemp the
+spinner wrapped about his waist, bringing the ends
+around his back and tucking them into his belt, thus
+keeping the material in place without knot or twist,
+and allowing the fibers to pay out freely.</p>
+
+<p>The workman in our picture is Johnny Moores, an
+old-time expert hand-spinner, who could walk off<span class="pagenum" id="Page_23">23</span>
+backward from the wheel with his wad of hemp,
+spinning with each hand a thread as fine and even as
+could be asked for. In the photograph, in order to show
+the process more clearly, one large yarn is being spun.</p>
+
+<p>The large wheel, usually turned by a boy, is used to
+convey power to the “whirls” or small spindles carrying
+hooks upon which the fiber is fastened. These
+whirls, revolving, give the twist to the yarn as the spinner
+deftly pays out the fiber, regulating it with skillful
+fingers to preserve the uniformity and proper size of
+the yarn. As he goes backward down the long walk
+through the “squares of sunlight on the floor” he
+throws the trailing yarns over the “stakes” placed at
+intervals along the walk for the purpose.</p>
+
+<p>The spinning “grounds” were usually arranged with
+wheels at either end, so that spinners, reaching the
+farther end, could go back to their starting point spinning
+another set of yarns.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_23">
+  <img alt=" " height="1509" src="images/i_023.jpg" width="2379" id="id-2533754258862432746">
+  <figcaption class="caption">HAND SPINNING
+</figcaption></figure>
+
+<p>Then, in the case of small ropes, the strands could
+be made by attaching two or more yarns to the “whirl”<span class="pagenum" id="Page_24">24</span>
+and twisting them together, reversing the motion to
+give the strands a twist opposite to that given the yarns.
+These strands were twisted together, again reversing
+the motion, making a rope. Thus it will be seen that,
+reduced to its lowest terms, rope-making consists simply
+of a series of twisting processes. The twisting of the
+yarns into the strand is known as “forming” or putting
+in the “foreturn.” The final process is “laying,”
+“closing” or putting in the “afterturn.” Horse power
+was used in old times for forming and laying rope
+which was too large to be made by hand.</p>
+
+<figure class="figcenter" style="max-width: 16em;" id="ip_24">
+  <img alt=" " height="1332" src="images/i_024.jpg" width="1625" id="id-8658909330083164912">
+  <figcaption class="caption">PILGRIM HALL, PLYMOUTH
+</figcaption></figure>
+
+<p><span class="pagenum" id="Page_25">25</span></p>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter section">
+<p><span class="pagenum" id="Page_27">27</span></p>
+<h2 class="nobreak" id="Part_II"> <span class="larger">Part II</span></h2>
+<div>                                                                                                                                                                                                                           </div>
+</div>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-6313457842042492170"></figure>
+
+<h2 class="nobreak" id="toclink_27">CHAPTER I<br>
+
+<span class="subhead"><span class="smcap">Manila Fiber</span></span></h2>
+</div>
+
+<p class="idc i"><img alt="I" height="429" src="images/i_027_2i.png" width="397" id="id-1278127922494196760">
+<span class="firstword">In</span> any manufacturing enterprise the question
+of raw materials is one of the highest importance.
+No manufacturer can become
+extensively successful without an intimate
+knowledge of the material entering into his product.
+He must be an expert judge of its quality to be able
+to determine for himself the exact value of what is
+offered him and its adaptability for his particular purposes;
+he must be closely in touch with all the markets;
+he must know all the conditions surrounding the production
+and marketing of the material; he must be
+fully posted as to all causes, natural and speculative,
+affecting the supply or the demand.</p>
+
+<p>To be most valuable, this knowledge must not only
+cover matters affecting the present, but must forecast
+the future with the greatest possible degree of certainty.
+Such foresight is particularly valuable in the cordage
+business, where material must be provided for many
+months before it is used. This factor has always been
+conspicuous in the management of the Plymouth
+Cordage Company, and has contributed not a little<span class="pagenum" id="Page_28">28</span>
+to its continued and increasing
+growth and prosperity.</p>
+
+<figure class="figleft" style="max-width: 10em;" id="ip_28">
+  <img alt=" " height="2637" src="images/i_028.jpg" width="1339" id="id-7611500320738020077">
+  <figcaption class="caption">HANK OF MANILA 12 FEET LONG
+</figcaption></figure>
+
+<p>For the rope-maker the raw material
+<i lang="fr">par excellence</i> is the so-called
+“Manila hemp.” Strictly speaking
+this is not a hemp at all, being a
+fiber obtained from the wild banana
+plant of the Philippine Islands.
+The botanists tell us to call this
+plant <i>Musa Textilis</i>, but the Filipino,
+who ought to know, calls both
+the plant and its fiber “Abacá.”</p>
+
+<p>The Philippines have a monopoly
+of this very important plant, as it
+has never been successfully cultivated
+elsewhere. So it will be seen
+at the start that the user of Manila
+hemp is dependent entirely upon
+our foreign possessions in
+the far East for his supply.
+Like most monopolists, the
+Filipino is not particularly
+susceptible to the wishes of
+his customers, and the procuring
+of hemp produced and prepared in the way to
+make it most valuable for rope-making is attended with
+some difficulty.</p>
+
+<p>The Abacá is cultivated by setting out shoots
+of the plant after a suitable tract of land has been
+cleared. When the field has had proper cultivation
+for a period of two or three years some of the plants
+will be ready to cut. They will then be tree-like in
+shape, and from fifteen to twenty-five feet in height.
+The stalk, some fifteen feet long, and a foot or
+more in diameter, is composed of the separate leaf<span class="pagenum" id="Page_29">29</span>
+stems growing compactly together in overlapping
+layers.</p>
+
+<p>The fiber is contained in the outer bark of these leaf
+stems, their inner portions being of a soft, pulpy
+nature. After the stalk is cut the native peels off strips
+of this fibrous bark, and after stripping the outer layer
+of stems, scrapes off its remaining pulp and proceeds
+to strip the next inner layer. This process is kept up
+through all the successive layers. The fiber from the
+inner layers of stems is finer and whiter than that from
+the outside.</p>
+
+<figure class="figcenter" style="max-width: 26em;" id="ip_29">
+  <img alt=" " height="1681" src="images/i_029.jpg" width="2714" id="id-4940510424652952923">
+  <figcaption class="caption">PHILIPPINE HEMP CART
+</figcaption></figure>
+
+<p>The fibrous strips are then cleaned by drawing them
+under a knife hinged over a block of wood. This
+scraping frees the fibers from the surrounding pulp.
+The quality of the hemp depends very much upon the
+thoroughness with which this cleaning is done. By
+using a smooth-edged knife and putting considerable
+pressure upon it during the operation, a fiber is secured
+of high strength and good color. However, this means
+strenuous work on the part of the operator, and our
+brown fellow-citizen, like many of his white brethren,
+is averse to tiring his
+back; consequently the
+bulk of the fiber put
+upon the market is
+cleaned under<span class="pagenum" id="Page_30">30</span>
+knives with rough edges and loosely held against the
+material. This makes the workman’s task easier and
+enables him to turn out a larger product, but of an
+inferior quality. Hence one of the worries of the manufacturer
+of high-grade cordage.</p>
+
+<figure class="figleft" style="max-width: 12em;" id="ip_30">
+  <img alt=" " height="1973" src="images/i_030.jpg" width="1448" id="id-6866227483243877686">
+  <figcaption class="caption">“STRENUOUS WORK”
+</figcaption></figure>
+
+<p>This, briefly, is the way Manila hemp is extracted
+from its parent stalk. A fortune awaits anyone who
+will perfect machinery capable of superseding these
+antiquated hand methods.</p>
+
+<p>After scraping, the fiber is hung over bamboo poles
+to dry. When thoroughly dried, it is tied up in hanks
+and carried to market. In the warehouse of the exporter
+the fiber is sorted and graded and then packed
+in bales of 275 pounds. In this form it eventually
+reaches the cordage factory.</p>
+
+<p>With this description, let us sum up some of the elements
+entering into the quality of various parcels of
+hemp, which will be of interest as showing the task
+imposed upon the manufacturer
+in selecting the quality of fiber
+necessary to furnish
+rope of the required
+standard. It must be
+strongly impressed
+upon the mind that the
+fact that a certain rope
+may be honestly called
+“Manila” is no proof
+of its strength, durability
+or general value.</p>
+
+<figure class="figcenter" style="max-width: 26em;" id="ip_30b">
+  <img alt=" " height="4085" src="images/i_031.jpg" width="2690" id="id-6125529015529496501">
+  <figcaption class="caption"><p class="smaller">COLLECTING THE STALKS</p>
+
+<p class="smaller">STRIPPING AND SCRAPING</p>
+
+<p class="smaller">DRYING—TYING IN HANKS</p>
+
+<p>FILIPINOS PREPARING MANILA FIBER</p>
+</figcaption></figure>
+
+<p>In the first place,
+there are some fourteen
+varieties of the <i>Musa
+Textilis</i>, presenting a
+like range in the quality<span class="pagenum" id="Page_32">32</span>
+of fiber produced. Then each process of gathering and
+preparation presents opportunities for deterioration:
+the plant must be cut at just the right time, and if,
+after cutting, the stalk is allowed to remain too long
+before it is stripped, the fiber is injured. We have
+already seen that quality is largely dependent upon
+the character of the knife used in cleaning and the
+care given to this operation. Likewise, for best results,
+the fiber must have proper care while drying.</p>
+
+<p>As all these operations are in the hands of people
+not noted for industry or carefulness, it will be easily
+understood that the resulting output contains but a
+small percentage of really first-class material.</p>
+
+<p>To get an idea of the wide range in quality of Manila
+hemp, we have but to refer to any broker’s list of offerings,
+which will show prices varying from six to thirteen
+cents, or in similar proportion.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_32">
+  <img alt=" " height="1422" src="images/i_032.jpg" width="2371" id="id-2119105936447386138">
+  <figcaption class="caption">EXAMINING MANILA FIBER AT DOCK
+</figcaption></figure>
+
+<p>For a number of years past prices of Manila hemp
+have ruled much higher than previously.</p>
+
+<p>This great increase in price has placed the rope manufacturer
+in a difficult position. He must either use a
+poorer grade of material in his goods or must raise his<span class="pagenum" id="Page_33">33</span>
+prices to a point which, to his customers, may seem
+excessive.</p>
+
+<p>The reluctance on the part of manufacturers to
+accept the latter alternative has led to the use of low-grade
+Manila, and to mixing Manila with inferior
+fibers (Sisal, New Zealand, etc.), to a greater extent
+than at any other period in the history of the industry.</p>
+
+<p>The Plymouth Cordage Company, however, has
+steadily held the opposing position, and has continually
+been on the alert to secure the grade of hemp
+necessary to maintain its long-established standard
+of quality. Not a particle of any other fiber has
+entered into our Manila rope.</p>
+
+<p>This is because of our knowledge that a high-grade
+rope can be produced, with the proper facilities, to sell
+at a price relatively lower than one made from cheaper
+materials. This, of course, because the advantages of
+lightness, strength and durability more than outweigh
+the difference in price per pound. This is true
+from a strictly dollars-and-cents standpoint, to say
+nothing of the greater satisfaction in using the better
+article.</p>
+
+<figure class="figcenter" style="max-width: 25em;" id="ip_33">
+  <img alt=" " height="1466" src="images/i_033.jpg" width="2608" id="id-9060073354014062553">
+  <figcaption class="caption"><p class="floatl in2">“SUBURB OF MANILA”</p>
+
+<p class="floatr l2">ABACÁ GROWING</p>
+</figcaption></figure>
+
+<p>The making of cheap Manila (or so-called Manila)<span class="pagenum" id="Page_34">34</span>
+rope has been carried to such an extent that recently
+signs of a reaction have been apparent. Writers in
+trade journals are protesting against the lengths to
+which the cheapening of rope is being carried; buyers
+are learning that quality and economy are close companions
+in the rope trade; and so the correctness of
+our position is being more fully demonstrated every
+day.</p>
+
+<figure class="figcenter" style="max-width: 20em;" id="ip_34">
+  <img alt=" " height="1312" src="images/i_034.jpg" width="2041" id="id-3973076240449490125">
+  <figcaption class="caption">PHILIPPINE STREET SCENE
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<p><span class="pagenum" id="Page_35">35</span></p>
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-2450360168585451202"></figure>
+
+<h2 class="nobreak" id="toclink_35">CHAPTER II<br>
+
+<span class="subhead"><span class="smcap">Sisal Fiber</span></span></h2>
+</div>
+
+<p class="idc t"><img alt="T" height="430" src="images/i_035_2t.png" width="395" id="id-449781351540071374">
+<span class="firstword">The</span> American cordage manufacturer is an
+importer; very little of the fiber entering
+into his product is grown at home. We
+have already seen how the principal cordage
+fiber—Manila—is brought from the Philippines.
+Fiber is also imported from Russia, from Italy, and
+from New Zealand, but we wish to speak now of the
+material which, next to Manila, is most used in hard-fiber
+cordage—Sisal—and which is secured from
+one of our nearer neighbors. This fiber is obtained
+from the leaves of a cactus-like plant belonging to
+the <i>Agave</i> family. While varieties of this plant grow
+in many parts of the world, it is cultivated most
+extensively in Mexico, the state of Yucatan being the
+chief center of production and Merida the capital
+of the state the principal market. Several railroads
+connect Merida with its seaport, Progreso, whence the
+fiber for export is shipped.</p>
+
+<p>As Sisal more than any other fiber is used as a substitute
+for, or competitor of, Manila, we may make a
+brief comparison of the two.</p>
+
+<p><span class="pagenum" id="Page_36">36</span></p>
+
+<p>The length of Manila fiber is usually from six to ten
+feet, while that of Sisal is only from two to four feet.
+The tensile strength of Sisal is not more than three-fourths
+that of Manila.</p>
+
+<figure class="figcenter" style="max-width: 24em;" id="ip_36">
+  <img alt=" " height="3663" src="images/i_036.jpg" width="2515" id="id-9178900498016408787">
+  <figcaption class="caption"><p>FIELD OF SISAL PLANTS</p>
+
+<p>CUTTING LEAVES</p>
+
+<p>TRIMMING OFF THORNS</p>
+</figcaption></figure>
+
+<p><span class="pagenum" id="Page_37">37</span></p>
+
+<p>The color of Sisal is quite attractive, being a yellowish
+white, with sometimes a slight greenish tinge.
+Some fine lots of the fiber are very nearly white, but it
+all lacks the gloss and brilliancy which are characteristic
+of good quality Manila.</p>
+
+<p>Manila is noted for its smoothness and pliability,
+which make it an ideal fiber for rope-making. Sisal,
+on the other hand, is without this flexibility, and is
+much more stiff and harsh. This accounts for the presence
+of the unpleasant “splinters” in a Sisal rope, and
+their appearance in so-called Manila rope is an indication
+of the use of Sisal as an adulterant. Sisal is
+also more easily injured by exposure to moisture and
+varying atmospheric conditions than Manila.</p>
+
+<figure class="figcenter" style="max-width: 25em;" id="ip_37">
+  <img alt=" " height="1843" src="images/i_037.jpg" width="2573" id="id-850506333205910085">
+  <figcaption class="caption">LOADING LEAVES ON CAR
+</figcaption></figure>
+
+<p>While some of these qualities work against the use of
+Sisal in rope for general purposes where the question
+of durability is a factor, or even when softness and ease
+of handling are considered, this fiber is not without<span class="pagenum" id="Page_38">38</span>
+uses which it admirably
+serves. When a rope or
+yarn is wanted for tying
+purposes, where it is
+used as a band and then
+discarded, Sisal can be
+used to advantage, as it
+is of sufficient strength
+and can be spun with
+a fair degree of smoothness.
+It may be readily
+treated with tar, which is an advantage when the material
+upon which it is used is to be stored out of doors.</p>
+
+<figure class="figcenter" style="max-width: 24em;" id="ip_38">
+  <img alt=" " height="2734" src="images/i_038.jpg" width="2501" id="id-5925245923461062383">
+  <figcaption class="caption">
+<p class="floatr l1">LEAVES READY FOR CLEANING</p>
+
+<p class="floatl in1 b2">ELEVATOR TAKING LEAVES UP TO MACHINE</p>
+</figcaption></figure>
+
+<p class="clear">Sisal is largely used by this company for making
+Lathyarn and tie ropes of various kinds used for bundling
+laths, shingles, lumber, kindling wood, cooperage
+stock, hides, leather, nursery stock, for tying grain
+and cement sacks, for baling cloth in textile mills and
+for similar purposes almost innumerable.</p>
+
+<p>But the greatest use we make of this fiber and the
+use which has done much to place Sisal in its high<span class="pagenum" id="Page_39">39</span>
+position in the fiber family, and has helped to make the
+Mexican state of Yucatan wealthy in a comparatively few
+years, is in the making of binder twine. The advent and
+development of the self-binding reaper have opened a
+veritable gold mine for the Mexican Sisal growers, and
+a large proportion of the more than 300,000,000 pounds
+of Sisal annually imported to this country eventually
+finds its way to the wheat fields, not only of our own
+great West, but of all the world’s grain-raising countries.</p>
+
+<p>A fiber so largely used can hardly help being a factor
+in the markets, and some account of its production
+should be of interest. This story we shall tell briefly,
+and largely by the use of pictures. These illustrations,
+to which we draw particular attention, are from photographic
+negatives in our possession which were taken
+in Yucatan expressly for us.</p>
+
+<figure class="figright" style="max-width: 10em;" id="ip_39">
+  <img alt=" " height="1158" src="images/i_039.jpg" width="1192" id="id-1735414398850957190">
+  <figcaption class="caption">BALES WEIGH ABOUT 370 POUNDS
+</figcaption></figure>
+
+<p>The Sisal or <i>heniquen</i> plant of Yucatan has been
+used for its fiber for many centuries, but, as we have
+stated, the present enormous development of the industry
+dates back but comparatively few years, during
+which time great progress has been made in putting
+it upon a highly practical basis as regards both the
+cultivation of the plant and the preparation of the fiber.
+Labor-saving machinery is used in place of the old
+hand methods for extracting
+the fiber; indeed, the business
+is now so thoroughly up to
+date that reports are frequently
+circulated of the organization
+or contemplated
+organization of a “Sisal trust.”
+Apparently, however, the right
+“Napoleon of Finance” has
+not yet come to the fore to
+accomplish this.</p>
+<p><span class="pagenum" id="Page_40">40</span></p>
+<p>The cultivation of the <i>heniquen</i> is now carried on
+principally upon large farms or plantations known as
+<i lang="es">haciendas</i>, many of which have made their owners
+enormously wealthy. In starting a field of plants the
+suckers or <i lang="es">hijos</i> are set out in rows, and cultivation is
+carried on once or twice a year to keep down the weeds.
+The appearance of the fields of Sisal and of the growing
+and matured plants may be seen from our illustrations.
+When the plant has been growing about five
+years some of the long, sword-like leaves will be ready
+to cut, those around the base of the plant maturing
+first. The time for cutting is indicated by the leaves
+assuming a nearly horizontal position instead of the
+more upright one of the younger leaves, at which stage
+the fiber is at its best. Then the natives, with their
+<i lang="es">corbas</i> go through the fields and cut off the matured
+leaves, trim the sharp thorns from the sides and ends,
+and tie up the leaves in bundles of fifty, ready to be
+carried to the cleaning mill.</p>
+
+<p>The plant continues to yield a supply of leaves for a
+period of from ten to twenty years. The end of its
+usefulness is marked by the appearance of the flower
+stalk or “pole,” and the plant soon dies.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_40">
+  <img alt=" " height="1252" src="images/i_040.jpg" width="2405" id="id-7948159485308558606">
+  <figcaption class="caption">CLEANED FIBER COMING OUT OF CLEANING MACHINE
+</figcaption></figure>
+
+<p><span class="pagenum" id="Page_41">41</span></p>
+
+<p>Most of the large
+<i lang="es">haciendas</i> are supplied
+with portable
+tracks, and small
+cars carry the
+bundles of freshly
+cut leaves from the
+fields to the cleaner
+house, where the
+pulp is scraped from
+the fiber by the
+powerful cleaning
+machinery.</p>
+
+<figure class="figright" style="max-width: 16em;" id="ip_41">
+  <img alt=" " height="1295" src="images/i_041.jpg" width="1707" id="id-5620471397521648703">
+  <figcaption class="caption">SISAL DRYING
+</figcaption></figure>
+
+<p>As will be seen in the photographs, the bundles of
+leaves are taken up on an elevator and along a carrier,
+which feeds them into the machine. The grip chains
+of the carrier hold the leaves, while the scraping wheels
+clean the pulp from the fiber, first one end of the leaves
+being cleaned and then, as they are carried farther
+along, the second wheel cleans the other end. This
+leaves the bundles of the fiber still in the grip of the
+carrier, which takes it out of the machine as shown in
+the picture. It is then carefully hung in the sun to
+dry. When thoroughly dry the fiber is taken to the
+press and made into bales weighing about 370 pounds
+each.</p>
+
+<p>We have already mentioned the fact that Manila
+rope is frequently adulterated with cheaper and inferior
+fibers, and so Sisal in its turn has its inferior
+imitators, the most common of which is known as
+Istle, a fiber which also grows in Mexico as well as in
+other parts of the world. A recent government publication,
+speaking of the use of Istle in cordage, states,
+“this fiber has been regarded heretofore as suitable
+only for use in the <em>manufacture of brushes</em>.”</p>
+
+<p><span class="pagenum" id="Page_42">42</span></p>
+
+<figure class="figcenter" style="max-width: 24em;" id="ip_42">
+  <img alt=" " height="3375" src="images/i_042.jpg" width="2406" id="id-4238802873685968186">
+  <figcaption class="caption">
+
+<p class="left">
+1. WAITING FOR THE PILOT<br>
+2. APPROACHING PLYMOUTH CORDAGE CO. PIER<br>
+3. COATED WITH ICE FROM THE STORM<br>
+4. LYING ALONGSIDE PIER<br>
+5. FIRST BALES COMING FROM HOLD<br>
+6. UNLOADING INTO WAREHOUSE
+</p>
+
+<p>SISAL STEAMER FROM YUCATAN ARRIVING AND DISCHARGING AT
+PLYMOUTH CORDAGE COMPANY’S PIER</p>
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<p><span class="pagenum" id="Page_43">43</span></p>
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-6736461803922690067"></figure>
+
+<h2 class="nobreak" id="toclink_43">CHAPTER III<br>
+
+<span class="subhead"><span class="smcap">The Hemps—American, Russian, Italian. Other
+Fibers</span></span></h2>
+</div>
+
+<p class="idc"><img alt="W" height="432" src="images/i_043_2w.png" width="403" id="id-524158970342588338">
+<span class="firstword">While</span> the fibers we have already discussed—Manila
+and Sisal—comprise by far the
+greater part of the raw material of cordage,
+we wish to mention in this chapter a fiber
+which, while now of comparatively slight importance,
+has the interesting feature of being a home product,
+and the cultivation of which at one time formed an industry
+of considerable magnitude in this country. This
+is the American or Kentucky hemp.</p>
+
+<p>Most of the cordage fibers are commonly known as
+hemp, but strictly speaking this name applies only to
+the fiber of the hemp plant (<i>Cannabis sativa</i>), of which
+the American hemp is an example. This hemp plant,
+while a native of Asia, has for many years been grown
+in the different countries of Europe as well as in America.
+Its fiber in commerce takes the name of the
+country from which it comes, as Russian hemp, Italian
+hemp, etc.</p>
+
+<p>The character of the plant and of its fiber varies
+considerably, depending upon the conditions of climate
+and soil in the various sections where it is produced.<span class="pagenum" id="Page_44">44</span>
+The fiber is also more or less affected by the varying
+methods of preparation used in different places. The
+Italian hemp, particularly, is finer, lighter colored and
+stronger than American or Russian, and commands a
+higher price in the market.</p>
+
+<p>Hemp differs from Manila and Sisal by being what
+is known as a bast fiber, being obtained from the bark
+of the plant, which necessitates altogether different
+methods of treatment in extracting the fiber.</p>
+
+<p>The pictures below and opposite, which are from
+photographs secured through the courtesy of Messrs.
+T. P. Curry &amp; Son, Danville, Ky., give an interesting
+glimpse of the Kentucky hemp industry. The plants
+are cut and spread out to dry, after which they are
+gathered together in bundles and carefully stacked.
+Later the stacks are opened and the hemp again spread
+out for exposure to the action of the dew, frost and sun
+during the retting process which rots the gums holding
+the filaments together. The inner, woody part of<span class="pagenum" id="Page_46">46</span>
+the stem also becomes dry
+and brittle by this treatment
+so that it breaks and falls
+away during the “breaking”
+which follows. This process
+of breaking leaves the fibrous
+strips or bands in such shape
+that they can be readily
+hackled, thus cleaning out
+any remaining fragments of
+wood, short fibers and dirt,
+leaving the long, smooth fiber
+ready to be bunched together
+and pressed into bales.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_46">
+  <img alt=" " height="1673" src="images/i_044.jpg" width="2411" id="id-1571438512801585932">
+  <figcaption class="caption">AMERICAN HEMP STACKED IN FIELDS
+</figcaption></figure>
+
+<figure class="figcenter" style="max-width: 26em;" id="ip_46b">
+  <img alt=" " height="4325" src="images/i_045.jpg" width="2729" id="id-8729500957300848202">
+  <figcaption class="caption">CUTTING THE HEMP—BREAKING—HACKLING—BALING
+</figcaption></figure>
+
+<figure class="figleft" style="max-width: 9em;" id="ip_46c">
+  <img alt=" " height="2335" src="images/i_046.jpg" width="1042" id="id-2240139580297230865">
+  <figcaption class="caption">NEW ZEALAND FLAX
+</figcaption></figure>
+
+<p>American hemp differs from
+Manila by being much softer
+and of a dark gray color, and
+is sometimes known as black
+hemp. Like the Russian and
+Italian varieties, it is used by
+cordage manufacturers principally
+for making various
+tarred goods, such as ratline, marline, houseline and
+other products. Before the Manila fiber was so
+largely used in this country for rope-making, the
+Kentucky hemp business was of considerable importance,
+but it has of late years declined very greatly
+and is now of interest chiefly as representing that class
+of industries which have been robbed of their former
+importance by changing conditions. Years ago the
+American hemp went into the rigging of many a
+famous vessel, both merchantman and man-of-war,
+and was a source of pride to its patriotic producers
+and users. But the substitution of steam vessels for
+sail and the use of other fibers and of wire for rigging<span class="pagenum" id="Page_47">47</span>
+have taken away the great field of usefulness once
+open to this home product.</p>
+
+<p>Besides the hemps—-American, Russian and Italian—another
+cordage fiber used to some extent in this
+country is known as New Zealand hemp or flax, taking
+its name from the country where it is produced. This
+is not strictly a hemp, although so called like many
+other fibers. It is obtained from the leaves of a plant
+belonging to the lily family, the cultivation of which
+forms an important New Zealand industry. The extracting
+of the fiber is done by special machinery and,
+contrary to the former practice, much attention is
+now given to properly grading and packing the
+product, these matters being subject to government
+inspection.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_47">
+  <img alt=" " height="1224" src="images/i_047.jpg" width="2379" id="id-8508949598962827150">
+  <figcaption class="caption">HEMP GROWING BY THE WATER
+</figcaption></figure>
+
+<p>New Zealand hemp in general appearance resembles
+Manila more closely than does any other cordage fiber,
+and, although it is far inferior in strength and other
+practical qualities, it is sometimes used as an adulterant
+in making the cheaper grades of so-called Manila
+rope. Its presence in a rope sold for Manila is
+sometimes difficult to detect, which emphasizes the
+necessity of care on the part of the buyer in getting<span class="pagenum" id="Page_48">48</span>
+positive assurance of the purity of the goods offered
+him.</p>
+
+<p>The only other cordage fibers of much consequence
+are the so-called African and Java hemps—the first
+named a product of German East Africa and of British
+East Africa, the Java hemp a product of the island of
+the same name.</p>
+
+<figure class="figcenter" style="max-width: 14em;" id="ip_48">
+  <img alt=" " height="1683" src="images/i_048.jpg" width="1418" id="id-9122964109629298034">
+  <figcaption class="caption">UNCLE BEN, HEMP BREAKER
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-1280539458692372515"></figure>
+
+<h2 class="nobreak" id="toclink_49">CHAPTER IV<br>
+
+<span class="subhead"><span class="smcap">Pine Tar</span></span></h2>
+</div>
+
+<p class="idc"><img alt="W" height="431" src="images/i_049_2w.png" width="402" id="id-1573190509656064186">
+<span class="firstword">Who</span> does not know of the tarred rigging
+which once meant so much to the rope-maker?
+Its very odor seemed to cling to
+the pages of seafaring books. Its use naturally
+declined with the development of steam power,
+yet how few people, perhaps, realize that tarred goods
+for quite different purposes form an important though
+incidental branch of the rope business today! Lathyarn—to
+mention but one class—is consumed annually
+by the lumber industry in quantities that
+would surprise many persons. Today’s buyers, furthermore,
+need goods of high quality just as did the
+old-time sea captains, and in the manufacture of such
+goods the tar itself is an important factor.</p>
+
+<p>Pine tar—the kind best suited for cordage—comes
+from various members of the pine-tree family, and is
+secured by a distillation process. The principal producing
+sections are northern Europe and the south-eastern
+United States—the yellow, long leaf or Georgia
+pine, which ranks first in this country for tar-making,
+growing in a territory about one hundred and twenty-five<span class="pagenum" id="Page_50">50</span>
+miles wide along the coast from North Carolina
+to Texas.</p>
+
+<figure class="figcenter" style="max-width: 24em;" id="ip_50">
+  <img alt=" " height="3295" src="images/i_050.jpg" width="2488" id="id-4006480337341451229">
+  <figcaption class="caption"><p>HOW PINE TAR IS MADE IN THE SOUTH ATLANTIC STATES</p>
+
+<p class="left">
+1. BUILDING THE KILN<br>
+2. STARTING FIRE<br>
+3. RAKING BACK COALS<br>
+4. TAR COMING FROM KILN<br>
+5. DIPPING AND BARRELING<br>
+6. WORKING AROUND KILN<br>
+7. AFTER HARD DAY AND NIGHT<br>
+8. TAR-MAKERS AT HOME<br>
+9. BURNING COMPLETED<br>
+</p>
+</figcaption></figure>
+
+<p>Of the two methods for extracting the tar—the<span class="pagenum" id="Page_51">51</span>
+old kiln and the modern retort processes—the second
+yields the greater supply, largely because of the more
+systematic manner in which the industry is carried on.
+As yet, however, no way has been perfected for obtaining
+by this newer method a tar that measures up
+to Plymouth Cordage Company standards, and for
+this reason we have continued to use the kiln-made
+article only.</p>
+
+<p>Tar-kiln burning is conducted so far out in the
+country and in such a desultory fashion that few
+people have the opportunity to become acquainted
+with the process. A brief description may, therefore,
+be of interest. Only dead wood is used, as the green
+tree does not yield the quality or quantity of tar
+necessary to make the work profitable. Among the
+tar-makers the material is known as fat lightwood, possibly
+from the fact that it ignites easily and burns
+rapidly. In weight and color it is anything but a light
+wood.</p>
+
+<p>The wood is cut into convenient lengths and then
+laid up, with the ground as a floor, to form a pile about
+twenty-five feet long by five high and tapering in
+width from eight to five feet. The soil, if soft or sandy,
+is first covered with clay to lessen the loss of tar, and
+the pile is usually built on a slope so that the liquid
+will flow toward the pipe which serves as an outlet.</p>
+
+<p>The kiln is completed by covering the wood with
+“pine straw” and sand. This prevents air currents
+and keeps the fire, which is on the back end, from drawing
+through and consuming the wood without producing
+tar. Moreover, while the kiln is burning—a period
+of two weeks or more for a twenty-five cord pile—it
+must be watched day and night so that straw and
+sand blown off by the gases within may be replaced
+at once.</p>
+
+<p><span class="pagenum" id="Page_52">52</span></p>
+
+<p>As the tar comes from the kiln it is caught in a hole
+dug beneath the outlet and is dipped up and poured
+into barrels—the average yield being one barrel to
+the cord. The tar is then hauled by cart to water or
+railroad, thence to be transported to the various naval
+stores yards.</p>
+
+<p>For the foregoing description and the accompanying
+illustrations of tar manufacture we are indebted to the
+American Naval Stores Company. The pictures showing
+kiln operations are very unusual and were secured
+only after several trips. The others were taken at the
+Company’s yards at Wilmington, North Carolina,
+where the tar is carefully inspected, strained and then
+re-barreled for shipment to our two factories.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_52">
+  <img alt=" " height="1589" src="images/i_052.jpg" width="2398" id="id-252404263872763472">
+  <figcaption class="caption"><p>TAR HANDLING AT NAVAL STORES YARD</p>
+
+<p class="left">
+1. INSPECTING<br>
+2. STRAINING<br>
+3. LOADING FOR SHIPMENT<br>
+4. TAR YARD FROM RIVER
+</p>
+</figcaption></figure>
+
+<p><span class="pagenum" id="Page_53">53</span></p>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter section">
+<p><span class="pagenum" id="Page_55">55</span></p>
+<h2 class="nobreak" id="Part_III"> <span class="larger">Part III</span></h2>
+<div>                                                                                                                                                                                                                           </div>
+</div>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-1610067458539087238"></figure>
+
+<h2 class="nobreak" id="toclink_55">CHAPTER I<br>
+
+<span class="subhead"><span class="smcap">Buying, Grading and Storing of Fiber</span></span></h2>
+</div>
+
+<p class="idc i"><img alt="I" height="429" src="images/i_055_2i.png" width="395" id="id-4747478303829940935">
+<span class="firstword">In</span> Part II we described the various fibers
+from which rope is made and pointed out
+the importance of expert knowledge and
+foresight in the buying of these raw materials.
+Purchasing power and the resources for grading
+and using each bale of fiber with strict regard to
+its particular fitness for his products are also of special
+value to the rope manufacturer.</p>
+
+<p>We have already shown that Manila fiber or hemp,
+as it is commonly called, is the principal and for most
+purposes the best cordage material. Including the
+numerous commercial grades and the brands of individual
+packers, the market designations or marks of
+Manila hemp run into the hundreds and cover a wide
+range in the four important qualities of strength, texture,
+length and color. A single mark may, furthermore,
+vary greatly in one quality or another from time
+to time, so that the market designation alone is not a
+safe sign of the fiber’s fitness for a certain purpose.</p>
+
+<p>Because of these facts the only way a manufacturer
+can be sure of sufficient fiber of the character required<span class="pagenum" id="Page_56">56</span>
+to insure uniform quality in each of his products is by
+examining and re-grading, according to his own standards,
+the hemp delivered to him and by combining
+selections of different marks in the right proportions to
+give the desired results. To do this successfully requires
+a thorough knowledge of fibers, large stocks
+always available and special storage facilities.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_56">
+  <img alt=" " height="1645" src="images/i_056.jpg" width="2366" id="id-711128451429114918">
+  <figcaption class="caption">EXAMINING AND RE-GRADING MANILA FIBER
+</figcaption></figure>
+
+<p>The steadily increasing demand for our products
+and our large scale of production warrant our buying
+yearly more Manila hemp than any other single manufacturer—more
+than many combined. Our purchases
+are governed, furthermore, by the knowledge
+gained through more than ninety years’ experience
+with the fiber markets and rope-making. These facts
+explain why we are able to secure the choicest marks so
+consistently and in such quantity.</p>
+
+<p>We have also erected warehouses capable of holding
+large quantities of fiber for months at a time so that
+we can store such as is not necessary for our immediate<span class="pagenum" id="Page_57">57</span>
+wants. This helps us to take full advantage of
+specially favorable offerings in the fiber markets. In
+addition, we maintain a system of fiber examination
+and classification by our own experts together with
+warehouse records that insure each bale being put to
+the particular use its quality fits it for.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_57">
+  <img alt=" " height="1766" src="images/i_057.jpg" width="2374" id="id-4069337999506621850">
+  <figcaption class="caption">TRACK AND WAREHOUSE FACILITIES, PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+
+<p>The important question of quality is determined
+when the hemp first reaches us. The carloads of
+Manila from Boston, New York, Seattle and other
+ports are brought directly alongside our warehouses
+and after the hemp has all been transferred to the
+platforms every mark is carefully gone over. Bales
+are opened, the hanks laid out flat, the fiber minutely
+examined and each mark given our own grading. This
+examination is conducted purely from the manufacturing
+standpoint and is entirely in addition to the one
+made on the dock. The expert ability to judge fiber
+and the constant care required can be imagined from the<span class="pagenum" id="Page_59">59</span>
+fact that single
+shipments
+frequently contain
+as many
+as seventy-five
+marks.</p>
+
+<figure class="figcenter" style="max-width: 40em;" id="ip_59">
+  <img alt=" " height="2876" src="images/i_058.jpg" width="4216" id="id-5811066542031097568">
+  <figcaption class="caption">STACKING MANILA FIBER WITH PORTABLE, COMPRESSED-AIR ENGINE
+</figcaption></figure>
+
+<p>The weighing
+and storing
+of the fiber follow
+next, and
+the latter is a
+task of considerable
+magnitude,
+for our
+warehouses
+contain a floor
+space of over
+370,000 square
+feet and each mark must be so placed that it will
+be readily accessible as needed. When the bales are
+put on the scales and an entry made of the weight—always
+close to 275 pounds on Manila—a record
+is also set down for each bale which identifies it by
+mark, shipment and location in warehouse, according
+to the section, bay and hoist selected for it. The hemp
+is then built up into orderly piles with the aid of a
+portable compressed-air engine, each mark being
+placed by itself.</p>
+
+<figure class="figright" style="max-width: 14em;" id="ip_59b">
+  <img alt=" " height="1903" src="images/i_059.jpg" width="1667" id="id-6027719650970372676">
+  <figcaption class="caption">TRUCKING MANILA FIBER INTO FACTORY WAREHOUSE
+</figcaption></figure>
+
+<p>By means of this warehouse system and the separate
+record showing the proper use for every mark in each
+shipment, the qualities and quantities of fiber needed
+by any mill for the regular day’s work or for a particular
+job can be gotten out at a moment’s notice and
+with very small chance of error. As an additional
+safeguard, however, against accidental use of the wrong<span class="pagenum" id="Page_60">60</span>
+lot of fiber, we maintain a checking system which would
+reveal at once any mistake in delivery from warehouse
+to mill.</p>
+
+<p>The careful methods we have just described are indicative
+of the watchfulness maintained with each of
+the many fibers we use, although in none of them is
+there as great range of quality as in Manila, nor is
+purchasing power so important a factor.</p>
+
+<p>A recent and interesting development in connection
+with our Sisal importations is the direct steamship
+service now in effect between Yucatan and North
+Plymouth, and because of which cargoes of this fiber
+can now be brought directly alongside our own pier,
+unloaded by our own employees and trucked at once
+into our own warehouse.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_60">
+  <img alt=" " height="1487" src="images/i_060.jpg" width="2362" id="id-6085234705366838922">
+  <figcaption class="caption">SISAL FIBER BEING TRANSFERRED FROM WAREHOUSE TO MILL
+</figcaption></figure>
+
+<p>Every user of rope naturally expects that under equal
+conditions he will receive the same service from one
+rope that he does from another of the same kind and
+size made by the same manufacturer. The Plymouth
+Cordage Company aims to have each of its products<span class="pagenum" id="Page_61">61</span>
+give that sort of service; first, by possessing the best
+materials, facilities and workmen obtainable; second,
+by utilizing each of these factors to the best advantage.</p>
+
+<p>This policy, so well illustrated in our buying and
+selecting of fiber, finds its expression in every phase
+and department of our business, and herein lies one of
+the vital reasons why Plymouth Rope has always been
+so popular and is becoming increasingly so among discriminating
+rope buyers.</p>
+
+<p>Speedy transfer of the fiber from warehouse to mill
+is made by an industrial railroad operated by compressed
+air, which carries the bales directly into the
+various opening rooms.</p>
+
+<figure class="figcenter" style="max-width: 20em;" id="ip_61">
+  <img alt=" " height="838" src="images/i_061.jpg" width="2067" id="id-7264804665727811676">
+  <figcaption class="caption">NO. 2 TAR HOUSE, PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+
+<p><span class="pagenum" id="Page_62">62</span></p>
+
+<figure class="figcenter" style="max-width: 40em;" id="ip_62">
+  <img alt=" " height="2384" src="images/i_062.jpg" width="4182" id="id-3859057524113652400">
+  <figcaption class="caption">REAR VIEW NO. 3 MILL, PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<p><span class="pagenum" id="Page_63">63</span></p>
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-4594769810466904295"></figure>
+
+<h2 class="nobreak" id="toclink_63">CHAPTER II<br>
+
+<span class="subhead"><span class="smcap">Preparation of Fiber for Spinning—Formation
+of “Sliver”</span></span></h2>
+</div>
+
+<p class="idc t"><img alt="T" height="430" src="images/i_063_2t.png" width="391" id="id-355842154797039485">
+<span class="firstword">The</span> opening room where the fiber is made
+ready for the preparation machinery is a reminder
+of the days when all rope-making
+processes were hand work. The bales are
+first opened up. In the case of Manila this means
+cutting away the straw matting put on to protect the
+fiber in shipment. Then the hanks which are packed
+in various ways—sometimes doubled, sometimes
+twisted—are taken out and straightened and the
+band at the end of each hank removed.</p>
+
+<p>No machinery has yet been perfected for doing the
+work just described, but the first of the preparation
+processes, a short step beyond, tells quite a different
+story. Here the hanks of such fibers as require a special
+cleaning treatment are placed on fast-working hackling
+machines which comb away most of the snarls, loose
+tow and dirt.</p>
+
+<figure class="figcenter" style="max-width: 40em;" id="ip_63b">
+  <img alt=" " height="2652" src="images/i_064.jpg" width="4241" id="id-6329932211638933728">
+  <figcaption class="caption">PREPARATION ROOM, NO. 3 MILL, PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+
+<p>At this point hard fibers—Manila, Sisal and New
+Zealand—are usually oiled to soften them and to make
+them more workable for the operations that follow.
+The oil, furthermore, acts as a preservative. It is a<span class="pagenum" id="Page_65">65</span>
+matter of importance
+to the
+buyer, however,
+that the
+fiber should not
+be too heavily
+oiled, for that
+merely increases
+the
+weight and cost
+of the rope
+without improving
+its
+quality. Our
+experts have
+determined
+through long experience the amount of oil that should
+be used to best serve the interests of both manufacturer
+and buyer, and have perfected a process which
+insures a perfect distribution over all the fibers, while
+frequent tests on each machine, in which definite
+quantities of fiber are weighed before and after oiling,
+prevent any excess.</p>
+
+<figure class="figright" style="max-width: 14em;" id="ip_65">
+  <img alt=" " height="1690" src="images/i_065.jpg" width="1688" id="id-8296038350066628128">
+  <figcaption class="caption">WHERE THE LUBRICATING OIL IS MIXED
+</figcaption></figure>
+
+<p>The quality of oil used is also important, for grades
+containing acids have a harmful effect on all vegetable
+fiber. We compound our own oils and we also take
+great care to prevent acids from entering our grounds
+or factories and so coming in contact with our products.</p>
+
+<p>Long ago the Plymouth Cordage Company learned
+that in the methods employed in the preparation of
+fiber for spinning lay one of the secrets of fine rope-making.
+To secure a more effective and special treatment
+in this process, we have added to the regular
+machines many improvements of our own. So highly
+perfected is the apparatus that by machine work entirely<span class="pagenum" id="Page_66">66</span>
+the separate hanks of fiber are combed and elongated
+into a soft, continuous sliver of any size desired
+and of convenient length, glossy in appearance,
+perfectly clean, and with each fiber lying as nearly as
+possible in the straight position which gives it maximum
+strength. These operations, in which the entire
+character of the comparatively short vegetable fiber
+changes seemingly, are wholly a development of modern
+rope-making, since in the days of hand spinning
+no sliver was necessary.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_66">
+  <img alt=" " height="1736" src="images/i_066.jpg" width="2369" id="id-2205040192478224682">
+  <figcaption class="caption">FORMATION OF SLIVER—FIRST BREAKER
+</figcaption></figure>
+
+<p>The machines are arranged in series, usually as follows:
+a first and second breaker, a coarse and a fine
+spreader and a draw frame. The treatment is varied
+to suit the particular requirements of different hemps
+or ropes by a prolonging or shortening of the series
+and by the adjusting of individual machines, but the
+method is always essentially the same.</p>
+
+<figure class="figcenter" style="max-width: 26em;" id="ip_66b">
+  <img alt=" " height="4205" src="images/i_067.jpg" width="2712" id="id-4363166104037984739">
+  <figcaption class="caption">
+
+<p class="smaller">SECOND BREAKER<br>
+SPREADER<br>
+DRAW FRAME</p>
+
+<p>REDUCING SIZE OF SLIVER FOR SPINNING</p>
+</figcaption></figure>
+
+<p>The purpose of the first breaker is to form the primary<span class="pagenum" id="Page_68">68</span><span class="pagenum" id="Page_67">67</span>
+sliver or “roping” as it is sometimes called. The
+hanks of fiber—somewhat matted if they have been
+oiled—are fed by hand into the machine, several at
+a time. Steel pins fitted to a slowly revolving endless
+chain grasp the mass while a second set of pins, moving
+more rapidly, draws out the individual fibers and combs
+them into a continuous form.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_67">
+  <img alt=" " height="1456" src="images/i_068.jpg" width="2374" id="id-927855966439460171">
+  <figcaption class="caption">GROUP OF DRAW FRAMES
+</figcaption></figure>
+
+<p>The operations which follow are very similar. A
+number of “ropings” are allowed to feed together into
+a first, slowly revolving set of pins and are drawn out
+again by a high-speed set into a smaller sliver, the pins
+becoming finer on each succeeding machine until the
+draw frame is reached. Here the fiber is pulled from
+a single set of pins between two rapidly moving leather
+belts called aprons. On all of these machines the fiber
+passes between rollers as it goes onto and leaves the
+pins and the sliver is given its cylindrical form by being
+drawn through a circular opening.</p>
+
+<p>A finished sliver must conform to the special size
+desired for spinning. Different sizes are secured by
+changing the number of “ropings” which are allowed<span class="pagenum" id="Page_69">69</span>
+to feed into the fine spreader. When “rule of thumb”
+standards of measurement were practiced the size of
+the sliver was tested by the number of turns which
+could be clasped in the hand between the ends of the
+thumb and forefinger. If the workman’s hand chanced
+to be different from the official hand, he made allowances
+accordingly. At best this was a rough and ready
+method, but through long practice the men could become
+surprisingly expert. Mechanical grips or clasps
+are now used because they are more convenient and
+afford greater accuracy.</p>
+
+<p>The wonder of modernism in rope-making is nowhere
+more striking than in the preparation room.
+To pass from one end, where the raw hemp is received
+just as it left the hands of the native Filipino laborer
+with his crude methods, down through the long rows
+of machines to the draw frames from which the sliver
+is delivered in a form that can be likened to a stream
+of molten metal, is to cover decades of inventive
+genius and mechanical development.</p>
+
+<p>The mechanism performs its work so accurately that
+at first glance the man feeding the fiber into the machine
+and all the other men, busy about their various
+duties, would appear to be playing very minor parts
+in modern rope-making. In reality, expert workmanship
+and watchfulness are very important factors.
+Good rope depends no more upon scientific machine
+processes than upon ceaseless attention to the little details.
+And the attention paid to the details of the
+preparation room is especially important.</p>
+
+<p>A rope expert once said, “Any manufacturer can
+make rope—it is a simple operation; but very few
+can make <em>good rope</em> because few are willing to devote
+the necessary amount of pains to each of the little
+operations in the process.”</p>
+
+<p><span class="pagenum" id="Page_70">70</span></p>
+
+<figure class="figcenter" style="max-width: 34em;" id="ip_70">
+  <img alt=" " height="2621" src="images/i_070.jpg" width="3553" id="id-8126479209848932740">
+  <figcaption class="caption">PLYMOUTH CORDAGE COMPANY FACTORY TODAY AND IN EARLY DAYS
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<p><span class="pagenum" id="Page_71">71</span></p>
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-8136929203850783642"></figure>
+
+<h2 class="nobreak" id="toclink_71">CHAPTER III<br>
+
+<span class="subhead"><span class="smcap">Spinning of Rope Yarn and Binder Twine</span></span></h2>
+</div>
+
+<p class="idc"><img alt="H" height="431" src="images/i_071_2i.png" width="396" id="id-4142800110357170974">
+<span class="firstword">Hand</span> spinning, as practiced in the early days
+of the Plymouth Cordage Company, yielded
+a remarkably good rope yarn, but large production
+was very expensive and laborious.
+The length of the spinning grounds, which with the
+buildings protecting them were known as the ropewalk,
+determined the length yarn that could be spun. Hand
+and water power had to suffice, and even the best spinner
+could make but two yarns at a time.</p>
+
+<p>Steam-driven spinning machines were introduced,
+however, as early as 1838, for our records show that
+near the close of that year Bourne Spooner, founder
+of our company, wrote to one of the directors as
+follows:</p>
+
+<div class="blockquot">
+
+<p>“Our new spinning concern has consumed more time in the
+work of preparation than was expected, but we are now ready—this
+being the second day of steam spinning. It affords
+me much gratification to say that everything connected with
+this enterprise has gone comfortably on, and my faith in the
+utility and expediency of the measure is unabated.”</p>
+</div>
+
+<p>Through the courtesy of the Watson Machine Co.<span class="pagenum" id="Page_72">72</span>
+of Paterson, N. J., we are able to
+show an excellent picture of one of
+these earlier-type machines which, it
+will be noted, is tended by a woman. Those familiar
+only with the present factory practice of putting none
+but men on the spinning machines may be surprised
+to know that during this first period in the modern
+development of the process women spinners were regularly
+employed by the Plymouth Cordage Company
+and other concerns.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_72">
+  <img alt=" " height="1587" src="images/i_072.jpg" width="2402" id="id-8553442480357774354">
+  <figcaption class="caption">SPINNING ON EARLY-TYPE MACHINE
+</figcaption></figure>
+
+<p>Our founder’s belief in the new method was speedily
+justified. A way was found to adapt the machines to
+the spinning of Russian and American hemps which
+could not at first be handled as successfully as Manila
+because of their somewhat softer texture. About 1848
+the self-feeding device came into use. As the years
+passed, still other improvements were invented and
+utilized, giving us the highly perfected machine of
+today.</p>
+
+<p>Under favorable working conditions the only interruption
+in the spinning process, as now carried on, is
+the removal of the full bobbin and the substitution of<span class="pagenum" id="Page_73">73</span>
+an empty one. A bobbin will hold as much as half a
+mile of yarn which will weigh in the neighborhood of
+ten pounds—the length and weight of the load varying
+with different sizes of yarn.</p>
+
+<p>The feed portion of the machine, as can be seen in
+the picture below, consists of a revolving endless chain
+fitted with fine steel pins, and by these the fiber—now
+in the sliver form given it in the preparation room—is
+drawn from its bundle and carried toward a tube
+which can be adjusted to regulate the size of the yarn
+as desired. Into this tube the fiber disappears in
+a fashion only to be described by the single word
+“whisked.”</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_73">
+  <img alt=" " height="1373" src="images/i_073.jpg" width="2385" id="id-8722256766995925666">
+  <figcaption class="caption">THE MODERN SPINNING PROCESS
+</figcaption></figure>
+
+<p>In the preceding chapter we spoke of the importance
+of an even sliver in the securing of a good yarn and
+pointed out the care with which our sliver is prepared.
+We have still further lessened the possibility of bunches
+or thin spots in our yarns by perfecting and installing
+on all spinning machines a device which insures a
+uniform amount of feed to the tube at all times.</p>
+
+<p>The two capstans which pull the fiber from the pins
+and through the tube show in our picture directly at
+the left of the bobbin. Their revolution also imparts
+the twist to the yarn. The amount of<span class="pagenum" id="Page_74">74</span>
+this twist—the number of turns per foot—depends
+on the capstan’s speed and is fixed in a way best
+explained by describing the flyer—the first part of
+the machine to be perfected.</p>
+
+<p>The closed flyer, as the present-day type is called, is
+composed of two discs joined by stay rods and carrying
+through their centers a spindle which holds the wooden
+bobbin. The capstans are set into the disc at the left
+and revolve with the flyer, at the same time receiving
+a lesser reverse power from an independent gearing.
+Their speed is, therefore, equivalent to the difference
+in speeds of these two drivers.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_74">
+  <img alt=" " height="1623" src="images/i_074.jpg" width="2380" id="id-2420659811320337774">
+  <figcaption class="caption">“WITH ITS HUNDREDS OF FLYERS.” SPINNING ROOM, NO. 1 MILL
+</figcaption></figure>
+
+<p>To insure an even twist these speeds, once they are
+set, should not be allowed to vary, and to obtain this
+steady running, the Plymouth Cordage Company uses,
+almost entirely, machines of a special type, so constructed
+as to guarantee the best possible results.</p>
+
+<p>Binder twine is always given what is known as a
+right-hand twist, but rope yarns must, for certain kinds
+of rope, be given a left-hand twist. This is accomplished<span class="pagenum" id="Page_75">75</span>
+by reversing the direction of the capstans. The
+flyer carries four grooved wheels—two for the right,
+the others for the left-hand yarn—and by these the
+yarn is guided from the capstans to the revolving
+bobbin.</p>
+
+<p>The spinning room, with its hundreds of flyers, each
+running in the neighborhood of 1,500 revolutions a
+minute, speaks eloquently of the years’ changes. Gone
+is the “drowsy dreamy sound” of the wheel in Longfellow’s
+“Ropewalk,” and in its place we hear the high
+singing noise of the gears—the voice of modern industry.
+And with the changes have come more rapid
+and economical production, better hours and pay for
+the workman, better rope for the consumer.</p>
+
+<figure class="figcenter" style="max-width: 21em;" id="ip_75">
+  <img alt=" " height="1189" src="images/i_075.jpg" width="2196" id="id-3634429412357185963">
+  <figcaption class="caption">SPINNING ROOM, NO. 3 MILL,<br>PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+
+<p><span class="pagenum" id="Page_76">76</span></p>
+
+<figure class="figcenter" style="max-width: 40em;" id="ip_76">
+  <img alt=" " height="2652" src="images/i_076.jpg" width="4215" id="id-5653058712130965537">
+  <figcaption class="caption">PLATFORM AND APPARATUS FOR STORAGE AND HANDLING OF TAR SUPPLY,<br>
+PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<p><span class="pagenum" id="Page_77">77</span></p>
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-5753892365673859630"></figure>
+
+<h2 class="nobreak" id="toclink_77">CHAPTER IV<br>
+
+<span class="subhead"><span class="smcap">Tarring of Rope Yarns and of Small Ropes</span></span></h2>
+</div>
+
+<p class="idc i"><img alt="I" height="429" src="images/i_077_2i.png" width="393" id="id-4305777224473655642">
+<span class="firstword">In</span> the last chapter we described the spinning
+of rope yarn. Let us now turn to the process
+where, for certain ropes, this yarn is
+treated with the tar, the manufacture of
+which we have already discussed.</p>
+
+<p>To penetrate and adhere to the yarn the tar must be
+heated to 200° or over. This work is begun in tanks
+from which the liquid feeds into the long copper-lined
+troughs where the tarring takes place. Through these
+“coppers,” so called, run steam pipes to further regulate
+the temperature. Excessive heating would cause
+the loss of the tar’s good qualities, and to prevent
+this the supply in the “coppers” must be freshened
+frequently.</p>
+
+<p>The picture on the <a href="#ip_78" class="pginternal">next page</a> illustrates how the
+yarns unwind from the bobbins, onto which they have
+been wound in the spinning process, and pass on into the
+“copper.” The plates which keep the yarns under the tar
+are shown elevated above the surface to give a clearer
+idea of their operation. As the heavily saturated
+yarns come from the “copper,” they are compressed<span class="pagenum" id="Page_78">78</span>
+between two rollers, adjusted to leave in the yarn as
+much or as little tar as needed for the particular goods
+being made and to turn back the surplus.</p>
+
+<p>The pull which carries the yarn through the tar
+and between the rollers comes from two large drums
+around which the yarns travel preparatory to reeling
+onto friction-driven receiving bobbins.</p>
+
+<p>Goods of nine-thread size and under are usually
+tarred in the completed rope form, but the process is
+essentially the same as with the yarns.</p>
+
+<p>Visitors to our tar-houses frequently remark upon
+the rich golden brown of our tarred goods. Those who
+use and sell them have come to look upon that color—an
+outward sign of right materials and methods—as
+the Plymouth mark of the weather-resisting qualities
+contained in the goods.</p>
+
+<figure class="figcenter" style="max-width: 21em;" id="ip_78">
+  <img alt=" " height="1414" src="images/i_078.jpg" width="2202" id="id-1954753694799105016">
+  <figcaption class="caption">YARNS ENTERING THE “COPPER”
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<p><span class="pagenum" id="Page_79">79</span></p>
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-3697260400296082878"></figure>
+
+<h2 class="nobreak" id="toclink_79">CHAPTER V<br>
+
+<span class="subhead"><span class="smcap">Forming and Laying of Ropes and Cables—Ropewalk
+Method</span></span></h2>
+</div>
+
+<p class="idc"><img alt="B" height="430" src="images/i_079_2b.png" width="402" id="id-6787988386371984625">
+<span class="firstword">Before</span> taking up the strictly modern
+machines so largely used now in the final
+processes of rope-making—the forming of
+strands, laying of common ropes and closing
+of cable-laid goods—we shall describe the ropewalk
+method of performing these operations as it is practised
+today.</p>
+
+<p>For making tarred goods in all but the smaller sizes
+the walk has certain advantages not afforded by more
+advanced methods. It also provides efficient equipment
+for turning out the largest ropes, which would
+otherwise require special machinery.</p>
+
+<p>The long alleys or grounds where the work takes
+place are usually laid out in pairs, one for forming,
+the other for laying and closing. Each ground has a
+track to accommodate the machines and an endless
+band-rope which conveys the power.</p>
+
+<p>At the head of the forming ground stand frames
+holding the bobbins of yarn. The yarns for each
+strand first pass through a plate perforated in concentric
+circles. This arrangement gives each yarn<span class="pagenum" id="Page_81">81</span>
+the correct angle of delivery into a tube where the
+whole mass gets a certain amount of compression.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_81">
+  <img alt=" " height="3559" src="images/i_080.jpg" width="2382" id="id-5961139726668106827">
+  <figcaption class="caption"><p>CORDAGE MANUFACTURE BY THE ROPEWALK METHOD</p>
+
+<div class="smaller">
+<p>YARNS PASSING FROM BOBBINS THROUGH PERFORATED PLATES</p>
+
+<p class="floatl">“TOP TRUCK”—LAYING PROCESS</p>
+<p class="floatr">FORMING MACHINE—MAKING STRAND</p>
+
+<p class="floatc p2">CLOSING TARRED RUSSIAN HEMP CABLE 15¾″ CIRCUMFERENCE
+FOR ARGENTINE BATTLESHIP “RIVADAVIA”</p>
+</div>
+</figcaption></figure>
+
+<p>The forming machine—a heavy carriage surmounted
+by the band-rope wheel into which are geared
+several spindles and a driving drum—is now drawn
+up, and each group of yarns is attached to a separate
+spindle as shown opposite. A rope made fast at either
+end of the walk is given a few turns around the drum,
+the band-rope is set in motion and the machine moves
+off, leaving in its wake the compactly twisted strands.</p>
+
+<p>In the case of a common right-laid rope, the forming
+twist is left hand. A change to right hand can be
+made simply by shifting clutches. The amount of turn
+or twist depends on the diameter of the drum, which
+is adjustable.</p>
+
+<p>Behind the machine follows a man who swings out
+the stakes, placed at intervals along the walk, and
+throws the strands over them. When the process is
+completed the strands are cut away at either end and
+transferred to the laying ground, the stakes being
+pushed back to allow the return of the forming machine
+for another trip.</p>
+
+<figure class="figcenter" style="max-width: 40em;" id="ip_81b">
+  <img alt=" " height="2586" src="images/i_082.jpg" width="4202" id="id-5135133203968210789">
+  <figcaption class="caption">INTERIOR OF ROPEWALK, PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+
+<p>The two laying machines stationed at opposite ends
+of the walk greatly resemble the forming machine.
+One—usually the “afterturn,” so called—is made
+fast; the other, or “foreturn,” is braked down but not
+secured. The strands are attached to separate spindles
+on each machine and given a little extra twisting from
+both ends—left hand as in the forming. During this
+process of putting in the “hard,” so called, as well as
+in the laying itself, the foreturn machine is drawn
+slowly ahead by the shortening of the strands.</p>
+
+<p>For the laying, the ends of the strands at the afterturn
+machine are transferred to a single spindle. The
+<span class="pagenum" id="Page_82">82</span>“top”—a cone-shaped block containing a groove for<span class="pagenum" id="Page_83">83</span>
+each strand and mounted on a light truck—is backed
+up to the machine, the strands are inserted and the
+twisting recommenced, the direction of the afterturn
+spindles now being reversed. The resulting tendency
+of the strands to untwist is counteracted, partly by
+a left-hand revolution of the foreturn spindles, and
+partly by the presence of the “hard” or surplus twist
+just described.</p>
+
+<p>As the top truck is forced ahead by the twisting
+process, the rope-maker preserves a correct lay in the
+rope by means of greater or less leverage on the “tails”—the
+loose ropes shown in our picture. The stakes
+on which the strands rest are removed one by one to
+allow the top truck to pass and are then replaced to
+support the rope until the laying is finished and the
+reeling in of the rope begun.</p>
+
+<p>The closing process on cable-laid goods is like the
+laying except that the twist is reversed. The work
+being with three complete ropes—frequently very
+large—a heavier top truck is necessary, and this
+must often be ballasted, as shown in our illustration
+on <a href="#ip_81" class="pginternal">page 80</a>, to keep down the vibration which would
+otherwise tend to lift the truck off the track.</p>
+
+<figure class="figcenter" style="max-width: 20em;" id="ip_83">
+  <img alt=" " height="1251" src="images/i_083.jpg" width="2053" id="id-1758022184571205902">
+  <figcaption class="caption">SIXTEEN-INCH TOWLINE WITH EYE-SPLICE
+</figcaption></figure>
+
+<p><span class="pagenum" id="Page_84">84</span></p>
+
+<figure class="figcenter" style="max-width: 40em;" id="ip_84">
+  <img alt=" " height="2552" src="images/i_084.jpg" width="4197" id="id-5271990014908701691">
+  <figcaption class="caption">LATHYARN AND TIE ROPE MACHINES, NO. 2 TAR HOUSE, PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<p><span class="pagenum" id="Page_85">85</span></p>
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-1465975437513245746"></figure>
+
+<h2 class="nobreak" id="toclink_85">CHAPTER VI<br>
+
+<span class="subhead"><span class="smcap">Forming and Laying of Ropes and Cables—Factory
+Method, Two-Machine System</span></span></h2>
+</div>
+
+<p class="idc"><img alt="U" height="433" src="images/i_085_2u.png" width="402" id="id-5188719406698190404">
+<span class="firstword">Unlike</span> the ropewalk system of making
+strands, ropes and cables described in the
+preceding chapter, the factory method, so
+called, is a development of the last few decades
+only. From the first this company has been a
+leader in purchasing the best stock machines obtainable
+and in designing devices to fulfill special requirements—a
+policy which has given us unequalled production
+facilities.</p>
+
+<p>To describe this equipment in detail would require
+an entire book. We shall attempt, in this chapter and
+the next, to give an idea of the principal machines only.</p>
+
+<p>There are two methods to the modern system: that
+in which the strands are formed on one type of machine
+and twisted into a rope on another; and that in
+which both operations are performed on a single machine.
+The second method carries with it the advantage
+of economy in space and equipment, but is not
+followed so generally with the larger sizes of rope as
+is the first.</p>
+
+<p>A complete set for the two-part method comprises<span class="pagenum" id="Page_86">86</span>
+two or more horizontal strand-forming machines, several
+bobbin frames and a vertical laying-machine. In
+our illustration, the latter is shown making three ropes
+into a cable—a process essentially the same as where
+three strands are united into a single rope.</p>
+
+<p>Three men usually suffice on the strand-making—one
+to tend the machines, the others to tend the bobbins
+which turn on fixed posts and can be renewed as needed
+without interrupting the process.</p>
+
+<p>The yarns are first drawn from the bobbins through
+the perforated plates seen in the lower section of the
+picture, the entire number being so distributed as to
+converge in layers and at the proper angles around
+one central yarn. They next pass into a tube. Here
+the whole mass is compressed and at the same time is
+twisted by the revolution of the long carriage or flyer,
+which, as our picture shows, supports a winding-reel
+and two capstans.</p>
+
+<p>The strand can be twisted right or left hand as called
+for. The amount of twist is regulated by the flyer’s
+speed—easily varied by the use of different gears.</p>
+
+<p>The two capstans are geared to pull the strand
+through the tube and, by holding it taut, keep the twist
+uniform. The reel also has its separate gears and
+revolution. Whenever the increasing diameter of the
+load tends to make it exert too much strain on the
+strand, the reel is slowed down by an ingenious friction
+device. The strand is guided into even layers on the
+reel by an arm which is made to travel from side to
+side.</p>
+
+<p>Here, then, are four distinct operations going on at
+once and all in perfect harmony. From this may be
+judged the many difficulties which had to be overcome
+before strands could be manufactured in such small
+space.</p>
+
+<p><span class="pagenum" id="Page_87">87</span></p>
+
+<figure class="figcenter" style="max-width: 24em;" id="ip_87">
+  <img alt=" " height="3562" src="images/i_087.jpg" width="2456" id="id-2697937936127824210">
+  <figcaption class="caption">
+
+<div class="smaller b1">
+<p>HORIZONTAL
+FORMING MACHINES
+MAKING STRANDS</p>
+
+<p>VERTICAL LAYING-MACHINE
+MAKING
+OIL-WELL CABLE</p>
+
+<p>FORMING MACHINES
+(WINDING REEL ON
+FARTHER MACHINE
+REMOVED)</p>
+</div>
+
+<p>ROPE-MAKING MACHINERY, PLYMOUTH CORDAGE COMPANY</p>
+</figcaption></figure>
+
+<p><span class="pagenum" id="Page_88">88</span></p>
+
+<p>The illustration opposite <a href="#ip_84" class="pginternal">page 85</a> shows the machines
+which make Plymouth Lathyarn and Hide Rope.
+Although somewhat smaller than the type just described,
+these machines are constructed and operate
+in practically the same manner. The speed of their
+flyers is naturally much slower, however, since the
+goods they work on need not be twisted so hard as a
+rope strand.</p>
+
+<p>For the laying process, in which the strands are
+united to make a rope, the full reels are removed from
+the forming machines by overhead chains, as shown on
+the <a href="#ip_89" class="pginternal">opposite page</a>, and by like means are placed in
+the vertical flyers of the laying-machine. The strands
+pass through openings in the top-piece just above the
+flyers and converge into a central tube still higher up
+to form the rope.</p>
+
+<figure class="figright" style="max-width: 12em;" id="ip_89">
+  <img alt=" " height="2807" src="images/i_089.jpg" width="1508" id="id-1015592791727798316">
+  <figcaption class="caption">REMOVING REEL WITH STRAND FROM FORMING MACHINE
+</figcaption></figure>
+
+<p>When the machine is in operation the whole lower
+portion, from the tube down, revolves, either to the
+right or left as the goods require, and thus puts the
+twist into the rope. This twist being opposite, always,
+to that of the strands, the natural tendency of the latter
+as they are laid together would be to loosen up. To
+regulate this, each flyer is made to revolve on its own
+axis—in a direction opposite to the general direction
+of the machine. Each reel revolves also on its axis to
+feed out the strand—the effect of the changing load
+being met as before by a friction attachment.</p>
+
+<p>The overhead pulleys, which perform the same
+mission for the rope that the capstans previously did
+for the strands, deliver the finished product onto a
+belt-driven coiling reel where it is guided into even
+layers by the workman tending the machine.</p>
+
+<p>As already explained, the laying-machine is used in
+the same way when three ropes are made into a cable.
+When a four-strand rope is to be turned out the machine<span class="pagenum" id="Page_89">89</span>
+has four strand-reels. If the strands are to be laid
+around a heart rope, as in transmission goods, the heart
+feeds directly into the twist tube from a smaller reel
+placed on the top-piece previously mentioned.</p>
+
+<p>All the foregoing machines are equipped with ingenious
+devices for measuring the strand or rope as it is
+made, so that the attendant can tell instantly from the
+gauge how many feet have been run. The features we
+have here touched on are only a few of the many that
+have transformed
+the final stages of
+rope-making from
+a laborious task—dependent
+for its
+success on the skill
+of the individual
+expert—into quick,
+sure operations
+where every problem
+is met with the
+unfailing accuracy
+of a perfect machine.
+Rope nowadays
+is, generally
+speaking, made
+more scientifically,
+more uniformly
+than it was in the
+days of strictly
+hand processes.
+And the end is not
+yet. Better and
+still better rope
+should mark the
+years to come.</p>
+
+<p><span class="pagenum" id="Page_90">90</span></p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_90">
+  <img alt=" " height="3738" src="images/i_090.jpg" width="2359" id="id-5618110435769791322">
+  <figcaption class="caption">FOUR-STRAND COMPOUND LAYING-MACHINE
+</figcaption></figure>
+<hr class="chap x-ebookmaker-drop">
+
+<p><span class="pagenum" id="Page_91">91</span></p>
+
+<div class="chapter">
+<figure class="figcenter" style="max-width: 35em;"><img alt=" " height="785" src="images/i_010_head.jpg" width="2419" id="id-7481285436947865337"></figure>
+
+<h2 class="nobreak" id="toclink_91">CHAPTER VII<br>
+
+<span class="subhead"><span class="smcap">Forming and Laying of Ropes—Factory Method,
+Single-Machine System</span></span></h2>
+</div>
+
+<p class="idc"><img alt="M" height="434" src="images/i_091_2m.png" width="400" id="id-8505468037066024239">
+<span class="firstword">Modern</span> rope-making ingenuity reaches its
+high-water mark in the compound laying-machine
+where the two operations of forming
+the strands and laying them into a rope
+are combined. Up to a certain point this method is
+more economical than that in which the forming and
+laying are unconnected as already described. Fewer
+machines are required for a given output,—hence
+less floor space and fewer workmen. The time-saving
+element also enters in.</p>
+
+<p>The compound laying-machine must, however, be
+stopped each time that the supply of yarn on any
+bobbin is so low as to call for a fresh one. This would
+occur so frequently in the case of the larger ropes as to
+offset the advantages just mentioned, and the machine
+is therefore used on a limited range of sizes only.</p>
+
+<p>As can be seen in the picture opposite, the machine
+contains a vertical shaft with upper and lower projecting
+arms which support the bobbin-flyers—four
+in number in this particular case. The bobbins within
+each flyer turn on separate spindles, allowing the yarns<span class="pagenum" id="Page_92">92</span>
+to pass up through small guide plates and thence into
+a tube.</p>
+
+<p>Each flyer is geared to revolve on its own axis, thus
+twisting its set of yarns into a compact strand. At
+the same time all the flyers revolve with the main shaft
+in an opposite direction and form a rope out of the
+strands as the latter come together in a central tube
+still higher up.</p>
+
+<p>The rope is drawn through this tube by a series of
+pulleys which exert a steady pull and so keep the proper
+twist in the rope. From these pulleys the finished product
+is delivered onto a separately driven coiling reel,
+an automatic device registering meanwhile on a dial
+the number of feet run.</p>
+
+<p>The small reel, seen near the head of the main shaft,
+holds the small heart rope which is fed into the center of
+certain four-strand ropes to act as a bed for the strands.</p>
+
+<p>The compound laying-machine can be had in many
+sizes of differing bobbin capacity, and the extent and
+variety of a manufacturer’s equipment on this type is
+one important indication of his ability to turn out
+promptly and at a reasonable price the sizes of rope in
+most common demand.</p>
+
+<figure class="figcenter" style="max-width: 23em;" id="ip_92">
+  <img alt=" " height="1246" src="images/i_092.jpg" width="2418" id="id-6321131999813452193">
+  <figcaption class="caption">SHIPPING PLATFORM, PLYMOUTH CORDAGE COMPANY
+</figcaption></figure>
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="section">
+<figure class="figcenter" style="max-width: 4em;" id="ip_92b">
+  <img alt=" " height="310" src="images/i_096.png" width="207" id="id-6202707505308643582">
+  <figcaption class="caption">
+<p class="small">THE<br>
+UNIVERSITY<br>
+PRESS<br>
+CAMBRIDGE<br>
+MASS</p>
+</figcaption></figure>
+<div>                                                                                                                                                                                                                           </div>
+</div>
+
+<div class="chapter transnote">
+<h2 class="nobreak" id="Transcribers_Notes">Transcriber’s Notes</h2>
+
+<p>Punctuation, hyphenation, and spelling were made
+consistent when a predominant preference was found
+in the original book; otherwise they were not changed.</p>
+
+<p>Simple typographical errors were corrected; unbalanced
+quotation marks were remedied when the change was
+obvious, and otherwise left unbalanced.</p>
+
+<p>Illustrations in this eBook have been positioned
+between paragraphs and outside quotations. In versions
+of this eBook that support hyperlinks, the page
+references in the List of Illustrations lead to the
+corresponding illustrations.</p>
+
+<p>The uncaptioned illustrations at the beginning
+of each chapter are identical decorative
+headpieces.
+</p>
+</div>
+
+
+
+</body></html>
